@@ -1536,6 +1536,23 @@
     ],
     "timestamp": "May/06/2018 15:34"
   },
+  "CF46313229": {
+    "contest_id": 746,
+    "language": "GNU C++14",
+    "path": "codeforces\\746\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Compote",
+    "problem_url": "https://codeforces.com/contest/746/problem/A",
+    "submission_id": "CF46313229",
+    "submission_url": "https://codeforces.com/contest/746/submission/46313229",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/28/2018 21:23"
+  },
   "CF46313386": {
     "contest_id": 378,
     "language": "GNU C++14",
