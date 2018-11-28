@@ -1,26 +1,36 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main() {
-	deque <int> dq;
-	int n,x,s=0,d=0;
+	bool sereja=true;
+	int n,a[1005],s=0,d=0;
 	cin>>n;
 	for (int i=0;i<n;i++) {
-		cin>>x;
-		dq.push_back(x);
+		cin>>a[i];
 	}
-	int i=0;
-	while (!dq.empty()) {
-		if (dq.front()>dq.back()) {
-			if (i%2==0) s+=dq.front();
-			else d+=dq.front();
-			dq.pop_front();
+	for (int i=0;i<n;) {
+		if (sereja) {
+			if (a[i]>=a[n-1]) {
+				s+=a[i];
+				i++;
+			}
+			else {
+				s+=a[n-1];
+				n--;
+			}
 		}
 		else {
-			if (i%2==0) s+=dq.back();
-			else d+=dq.back();
-			dq.pop_back();
+			if (a[i]>=a[n-1]) {
+				d+=a[i];
+				i++;
+			}
+			else {
+				d+=a[n-1];
+				n--;
+			}
 		}
-		i++;
+		if (sereja) sereja=false;
+		else if (!sereja) sereja=true;
+		//cout<<s<<' '<<d<<endl;
 	}
 	cout<<s<<' '<<d<<endl;
 }
