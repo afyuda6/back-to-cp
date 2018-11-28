@@ -1536,6 +1536,22 @@
     ],
     "timestamp": "May/06/2018 15:34"
   },
+  "CF46313386": {
+    "contest_id": 378,
+    "language": "GNU C++14",
+    "path": "codeforces\\378\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Playing with Dice",
+    "problem_url": "https://codeforces.com/contest/378/problem/A",
+    "submission_id": "CF46313386",
+    "submission_url": "https://codeforces.com/contest/378/submission/46313386",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Nov/28/2018 21:29"
+  },
   "CF46325403": {
     "contest_id": 1082,
     "language": "GNU C++14",
