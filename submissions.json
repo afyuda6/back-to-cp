@@ -1536,6 +1536,22 @@
     ],
     "timestamp": "May/06/2018 15:34"
   },
+  "CF46394491": {
+    "contest_id": 672,
+    "language": "GNU C++14",
+    "path": "codeforces\\672\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Summer Camp",
+    "problem_url": "https://codeforces.com/contest/672/problem/A",
+    "submission_id": "CF46394491",
+    "submission_url": "https://codeforces.com/contest/672/submission/46394491",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/30/2018 15:18"
+  },
   "CF46398740": {
     "contest_id": 381,
     "language": "GNU C++14",
