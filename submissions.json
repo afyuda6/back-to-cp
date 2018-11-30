@@ -1536,6 +1536,24 @@
     ],
     "timestamp": "May/06/2018 15:34"
   },
+  "CF46398740": {
+    "contest_id": 381,
+    "language": "GNU C++14",
+    "path": "codeforces\\381\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sereja and Dima",
+    "problem_url": "https://codeforces.com/contest/381/problem/A",
+    "submission_id": "CF46398740",
+    "submission_url": "https://codeforces.com/contest/381/submission/46398740",
+    "tags": [
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*800"
+    ],
+    "timestamp": "Nov/30/2018 18:09"
+  },
   "CF46399045": {
     "contest_id": 1047,
     "language": "GNU C++14",
