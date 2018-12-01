@@ -1536,6 +1536,22 @@
     ],
     "timestamp": "May/06/2018 15:34"
   },
+  "CF46439929": {
+    "contest_id": 262,
+    "language": "GNU C++14",
+    "path": "codeforces\\262\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Roma and Lucky Numbers",
+    "problem_url": "https://codeforces.com/contest/262/problem/A",
+    "submission_id": "CF46439929",
+    "submission_url": "https://codeforces.com/contest/262/submission/46439929",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/01/2018 18:20"
+  },
   "CF46440504": {
     "contest_id": 831,
     "language": "GNU C++14",
