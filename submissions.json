@@ -1536,6 +1536,23 @@
     ],
     "timestamp": "May/06/2018 15:34"
   },
+  "CF46446536": {
+    "contest_id": 92,
+    "language": "GNU C++14",
+    "path": "codeforces\\92\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Chips",
+    "problem_url": "https://codeforces.com/contest/92/problem/A",
+    "submission_id": "CF46446536",
+    "submission_url": "https://codeforces.com/contest/92/submission/46446536",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/01/2018 20:45"
+  },
   "CF46447333": {
     "contest_id": 629,
     "language": "GNU C++14",
