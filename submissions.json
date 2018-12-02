@@ -1536,6 +1536,22 @@
     ],
     "timestamp": "May/06/2018 15:34"
   },
+  "CF46498078": {
+    "contest_id": 952,
+    "language": "GNU C++14",
+    "path": "codeforces\\952\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Quirky Quantifiers",
+    "problem_url": "https://codeforces.com/contest/952/problem/A",
+    "submission_id": "CF46498078",
+    "submission_url": "https://codeforces.com/contest/952/submission/46498078",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/02/2018 17:26"
+  },
   "CF46504986": {
     "contest_id": 669,
     "language": "GNU C++14",
