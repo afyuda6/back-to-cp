@@ -1536,6 +1536,23 @@
     ],
     "timestamp": "May/06/2018 15:34"
   },
+  "CF46492361": {
+    "contest_id": 851,
+    "language": "GNU C++14",
+    "path": "codeforces\\851\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Arpa and a research in Mexican wave",
+    "problem_url": "https://codeforces.com/contest/851/problem/A",
+    "submission_id": "CF46492361",
+    "submission_url": "https://codeforces.com/contest/851/submission/46492361",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/02/2018 17:07"
+  },
   "CF46496998": {
     "contest_id": 361,
     "language": "GNU C++14",
