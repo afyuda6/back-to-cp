@@ -1536,6 +1536,23 @@
     ],
     "timestamp": "May/06/2018 15:34"
   },
+  "CF46528207": {
+    "contest_id": 47,
+    "language": "GNU C++14",
+    "path": "codeforces\\47\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Triangular numbers",
+    "problem_url": "https://codeforces.com/contest/47/problem/A",
+    "submission_id": "CF46528207",
+    "submission_url": "https://codeforces.com/contest/47/submission/46528207",
+    "tags": [
+      "brute force",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/03/2018 08:31"
+  },
   "CF46528333": {
     "contest_id": 859,
     "language": "GNU C++14",
