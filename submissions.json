@@ -1536,6 +1536,22 @@
     ],
     "timestamp": "May/06/2018 15:34"
   },
+  "CF46537946": {
+    "contest_id": 611,
+    "language": "GNU C++14",
+    "path": "codeforces\\611\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "New Year and Days",
+    "problem_url": "https://codeforces.com/contest/611/problem/A",
+    "submission_id": "CF46537946",
+    "submission_url": "https://codeforces.com/contest/611/submission/46537946",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Dec/03/2018 17:10"
+  },
   "CF46577627": {
     "contest_id": 915,
     "language": "GNU C++14",
