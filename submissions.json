@@ -2870,6 +2870,24 @@
     ],
     "timestamp": "Dec/26/2018 20:14"
   },
+  "CF48283517": {
+    "contest_id": 263,
+    "language": "GNU C++17",
+    "path": "codeforces\\263\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Squares",
+    "problem_url": "https://codeforces.com/contest/263/problem/B",
+    "submission_id": "CF48283517",
+    "submission_url": "https://codeforces.com/contest/263/submission/48283517",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Jan/12/2019 16:05"
+  },
   "CF48284844": {
     "contest_id": 400,
     "language": "GNU C++17",
