@@ -2870,6 +2870,22 @@
     ],
     "timestamp": "Dec/26/2018 20:14"
   },
+  "CF48284844": {
+    "contest_id": 400,
+    "language": "GNU C++17",
+    "path": "codeforces\\400\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Inna and Choose Options",
+    "problem_url": "https://codeforces.com/contest/400/problem/A",
+    "submission_id": "CF48284844",
+    "submission_url": "https://codeforces.com/contest/400/submission/48284844",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Jan/12/2019 16:50"
+  },
   "CF48285432": {
     "contest_id": 729,
     "language": "GNU C++17",
