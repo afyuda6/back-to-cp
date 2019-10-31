@@ -2870,6 +2870,22 @@
     ],
     "timestamp": "Dec/26/2018 20:14"
   },
+  "CF63924096": {
+    "contest_id": 169,
+    "language": "GNU C++17",
+    "path": "codeforces\\169\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Replacing Digits",
+    "problem_url": "https://codeforces.com/contest/169/problem/B",
+    "submission_id": "CF63924096",
+    "submission_url": "https://codeforces.com/contest/169/submission/63924096",
+    "tags": [
+      "greedy",
+      "*1100"
+    ],
+    "timestamp": "Oct/31/2019 19:34"
+  },
   "CF63997012": {
     "contest_id": 1245,
     "language": "GNU C++17",
