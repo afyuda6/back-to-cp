@@ -1,4 +1,228 @@
 {
+  "AC10268725": {
+    "contest_id": "abc156",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc156\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Beginner",
+    "problem_url": "https://atcoder.jp/contests/abc156/tasks/abc156_a",
+    "submission_id": "AC10268725",
+    "submission_url": "https://atcoder.jp/contests/abc156/submissions/10268725",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Feb/22/2020 19:04"
+  },
+  "AC10271041": {
+    "contest_id": "abc156",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc156\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Digits",
+    "problem_url": "https://atcoder.jp/contests/abc156/tasks/abc156_b",
+    "submission_id": "AC10271041",
+    "submission_url": "https://atcoder.jp/contests/abc156/submissions/10271041",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Feb/22/2020 19:06"
+  },
+  "AC10276856": {
+    "contest_id": "abc156",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc156\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Rally",
+    "problem_url": "https://atcoder.jp/contests/abc156/tasks/abc156_c",
+    "submission_id": "AC10276856",
+    "submission_url": "https://atcoder.jp/contests/abc156/submissions/10276856",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/22/2020 19:15"
+  },
+  "AC8296145": {
+    "contest_id": "abc042",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc042\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Iroha and Haiku (ABC Edition)",
+    "problem_url": "https://atcoder.jp/contests/abc042/tasks/abc042_a",
+    "submission_id": "AC8296145",
+    "submission_url": "https://atcoder.jp/contests/abc042/submissions/8296145",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Nov/05/2019 09:59"
+  },
+  "AC8296193": {
+    "contest_id": "abc042",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc042\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Iroha Loves Strings (ABC Edition)",
+    "problem_url": "https://atcoder.jp/contests/abc042/tasks/abc042_b",
+    "submission_id": "AC8296193",
+    "submission_url": "https://atcoder.jp/contests/abc042/submissions/8296193",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Nov/05/2019 10:07"
+  },
+  "AC8297803": {
+    "contest_id": "abc042",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc042\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Iroha's Obsession",
+    "problem_url": "https://atcoder.jp/contests/abc042/tasks/arc058_a",
+    "submission_id": "AC8297803",
+    "submission_url": "https://atcoder.jp/contests/abc042/submissions/8297803",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/05/2019 13:08"
+  },
+  "AC8309242": {
+    "contest_id": "abc043",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc043\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Children and Candies (ABC Edit)",
+    "problem_url": "https://atcoder.jp/contests/abc043/tasks/abc043_a",
+    "submission_id": "AC8309242",
+    "submission_url": "https://atcoder.jp/contests/abc043/submissions/8309242",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Nov/06/2019 12:43"
+  },
+  "AC8309286": {
+    "contest_id": "abc043",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc043\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Unhappy Hacking (ABC Edit)",
+    "problem_url": "https://atcoder.jp/contests/abc043/tasks/abc043_b",
+    "submission_id": "AC8309286",
+    "submission_url": "https://atcoder.jp/contests/abc043/submissions/8309286",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Nov/06/2019 12:47"
+  },
+  "AC8334347": {
+    "contest_id": "abc043",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc043\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Be Together",
+    "problem_url": "https://atcoder.jp/contests/abc043/tasks/arc059_a",
+    "submission_id": "AC8334347",
+    "submission_url": "https://atcoder.jp/contests/abc043/submissions/8334347",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Nov/08/2019 15:52"
+  },
+  "AC8334400": {
+    "contest_id": "abc043",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc043\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Unbalanced",
+    "problem_url": "https://atcoder.jp/contests/abc043/tasks/arc059_b",
+    "submission_id": "AC8334400",
+    "submission_url": "https://atcoder.jp/contests/abc043/submissions/8334400",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Nov/08/2019 15:57"
+  },
+  "AC8334465": {
+    "contest_id": "abc044",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc044\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Tak and Hotels (ABC Edit)",
+    "problem_url": "https://atcoder.jp/contests/abc044/tasks/abc044_a",
+    "submission_id": "AC8334465",
+    "submission_url": "https://atcoder.jp/contests/abc044/submissions/8334465",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Nov/08/2019 16:03"
+  },
+  "AC8334500": {
+    "contest_id": "abc044",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc044\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Beautiful Strings",
+    "problem_url": "https://atcoder.jp/contests/abc044/tasks/abc044_b",
+    "submission_id": "AC8334500",
+    "submission_url": "https://atcoder.jp/contests/abc044/submissions/8334500",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Nov/08/2019 16:06"
+  },
+  "AC8536011": {
+    "contest_id": "abc145",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc145\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Circle",
+    "problem_url": "https://atcoder.jp/contests/abc145/tasks/abc145_a",
+    "submission_id": "AC8536011",
+    "submission_url": "https://atcoder.jp/contests/abc145/submissions/8536011",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Nov/20/2019 16:26"
+  },
+  "AC8536040": {
+    "contest_id": "abc145",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc145\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Echo",
+    "problem_url": "https://atcoder.jp/contests/abc145/tasks/abc145_b",
+    "submission_id": "AC8536040",
+    "submission_url": "https://atcoder.jp/contests/abc145/submissions/8536040",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Nov/20/2019 16:30"
+  },
   "CF130856866": {
     "contest_id": 1579,
     "language": "GNU C++17",
@@ -86,6 +310,3805 @@
     ],
     "timestamp": "Oct/14/2021 21:25"
   },
+  "CF33512670": {
+    "contest_id": 4,
+    "language": "GNU C++11",
+    "path": "codeforces\\4\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Watermelon",
+    "problem_url": "https://codeforces.com/contest/4/problem/A",
+    "submission_id": "CF33512670",
+    "submission_url": "https://codeforces.com/contest/4/submission/33512670",
+    "tags": [
+      "brute force",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/22/2017 22:17"
+  },
+  "CF36045083": {
+    "contest_id": 71,
+    "language": "GNU C++11",
+    "path": "codeforces\\71\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Way Too Long Words",
+    "problem_url": "https://codeforces.com/contest/71/problem/A",
+    "submission_id": "CF36045083",
+    "submission_url": "https://codeforces.com/contest/71/submission/36045083",
+    "tags": [
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Mar/07/2018 20:00"
+  },
+  "CF36046477": {
+    "contest_id": 96,
+    "language": "GNU C++11",
+    "path": "codeforces\\96\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Football",
+    "problem_url": "https://codeforces.com/contest/96/problem/A",
+    "submission_id": "CF36046477",
+    "submission_url": "https://codeforces.com/contest/96/submission/36046477",
+    "tags": [
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Mar/07/2018 20:39"
+  },
+  "CF36276694": {
+    "contest_id": 118,
+    "language": "GNU C++11",
+    "path": "codeforces\\118\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "String Task",
+    "problem_url": "https://codeforces.com/contest/118/problem/A",
+    "submission_id": "CF36276694",
+    "submission_url": "https://codeforces.com/contest/118/submission/36276694",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Mar/14/2018 20:12"
+  },
+  "CF37290396": {
+    "contest_id": 1,
+    "language": "GNU C++11",
+    "path": "codeforces\\1\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Theatre Square",
+    "problem_url": "https://codeforces.com/contest/1/problem/A",
+    "submission_id": "CF37290396",
+    "submission_url": "https://codeforces.com/contest/1/submission/37290396",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Apr/13/2018 22:54"
+  },
+  "CF37292893": {
+    "contest_id": 158,
+    "language": "GNU C++11",
+    "path": "codeforces\\158\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Next Round",
+    "problem_url": "https://codeforces.com/contest/158/problem/A",
+    "submission_id": "CF37292893",
+    "submission_url": "https://codeforces.com/contest/158/submission/37292893",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/13/2018 23:49"
+  },
+  "CF37436656": {
+    "contest_id": 50,
+    "language": "GNU C++11",
+    "path": "codeforces\\50\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Domino piling",
+    "problem_url": "https://codeforces.com/contest/50/problem/A",
+    "submission_id": "CF37436656",
+    "submission_url": "https://codeforces.com/contest/50/submission/37436656",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/18/2018 19:51"
+  },
+  "CF37437842": {
+    "contest_id": 231,
+    "language": "GNU C++11",
+    "path": "codeforces\\231\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Team",
+    "problem_url": "https://codeforces.com/contest/231/problem/A",
+    "submission_id": "CF37437842",
+    "submission_url": "https://codeforces.com/contest/231/submission/37437842",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Apr/18/2018 20:23"
+  },
+  "CF37505980": {
+    "contest_id": 282,
+    "language": "GNU C++11",
+    "path": "codeforces\\282\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Bit++",
+    "problem_url": "https://codeforces.com/contest/282/problem/A",
+    "submission_id": "CF37505980",
+    "submission_url": "https://codeforces.com/contest/282/submission/37505980",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/21/2018 14:05"
+  },
+  "CF37511329": {
+    "contest_id": 112,
+    "language": "GNU C++11",
+    "path": "codeforces\\112\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Petya and Strings",
+    "problem_url": "https://codeforces.com/contest/112/problem/A",
+    "submission_id": "CF37511329",
+    "submission_url": "https://codeforces.com/contest/112/submission/37511329",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Apr/21/2018 17:42"
+  },
+  "CF37525336": {
+    "contest_id": 339,
+    "language": "GNU C++11",
+    "path": "codeforces\\339\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Helpful Maths",
+    "problem_url": "https://codeforces.com/contest/339/problem/A",
+    "submission_id": "CF37525336",
+    "submission_url": "https://codeforces.com/contest/339/submission/37525336",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Apr/22/2018 08:06"
+  },
+  "CF37525401": {
+    "contest_id": 266,
+    "language": "GNU C++11",
+    "path": "codeforces\\266\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Stones on the Table",
+    "problem_url": "https://codeforces.com/contest/266/problem/A",
+    "submission_id": "CF37525401",
+    "submission_url": "https://codeforces.com/contest/266/submission/37525401",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/22/2018 08:17"
+  },
+  "CF37525482": {
+    "contest_id": 281,
+    "language": "GNU C++11",
+    "path": "codeforces\\281\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Word Capitalization",
+    "problem_url": "https://codeforces.com/contest/281/problem/A",
+    "submission_id": "CF37525482",
+    "submission_url": "https://codeforces.com/contest/281/submission/37525482",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Apr/22/2018 08:28"
+  },
+  "CF37533680": {
+    "contest_id": 158,
+    "language": "GNU C++11",
+    "path": "codeforces\\158\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Taxi",
+    "problem_url": "https://codeforces.com/contest/158/problem/B",
+    "submission_id": "CF37533680",
+    "submission_url": "https://codeforces.com/contest/158/submission/37533680",
+    "tags": [
+      "*special problem",
+      "greedy",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Apr/22/2018 20:00"
+  },
+  "CF37544423": {
+    "contest_id": 116,
+    "language": "GNU C++11",
+    "path": "codeforces\\116\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Tram",
+    "problem_url": "https://codeforces.com/contest/116/problem/A",
+    "submission_id": "CF37544423",
+    "submission_url": "https://codeforces.com/contest/116/submission/37544423",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/23/2018 11:56"
+  },
+  "CF37549809": {
+    "contest_id": 263,
+    "language": "GNU C++11",
+    "path": "codeforces\\263\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Beautiful Matrix",
+    "problem_url": "https://codeforces.com/contest/263/problem/A",
+    "submission_id": "CF37549809",
+    "submission_url": "https://codeforces.com/contest/263/submission/37549809",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/23/2018 18:52"
+  },
+  "CF37561711": {
+    "contest_id": 131,
+    "language": "GNU C++11",
+    "path": "codeforces\\131\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "cAPS lOCK",
+    "problem_url": "https://codeforces.com/contest/131/problem/A",
+    "submission_id": "CF37561711",
+    "submission_url": "https://codeforces.com/contest/131/submission/37561711",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Apr/24/2018 07:32"
+  },
+  "CF37561774": {
+    "contest_id": 58,
+    "language": "GNU C++11",
+    "path": "codeforces\\58\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Chat room",
+    "problem_url": "https://codeforces.com/contest/58/problem/A",
+    "submission_id": "CF37561774",
+    "submission_url": "https://codeforces.com/contest/58/submission/37561774",
+    "tags": [
+      "greedy",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Apr/24/2018 07:41"
+  },
+  "CF37561855": {
+    "contest_id": 133,
+    "language": "GNU C++11",
+    "path": "codeforces\\133\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "HQ9+",
+    "problem_url": "https://codeforces.com/contest/133/problem/A",
+    "submission_id": "CF37561855",
+    "submission_url": "https://codeforces.com/contest/133/submission/37561855",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Apr/24/2018 07:55"
+  },
+  "CF37563941": {
+    "contest_id": 160,
+    "language": "GNU C++11",
+    "path": "codeforces\\160\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Twins",
+    "problem_url": "https://codeforces.com/contest/160/problem/A",
+    "submission_id": "CF37563941",
+    "submission_url": "https://codeforces.com/contest/160/submission/37563941",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Apr/24/2018 12:13"
+  },
+  "CF37569177": {
+    "contest_id": 122,
+    "language": "GNU C++11",
+    "path": "codeforces\\122\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Lucky Division",
+    "problem_url": "https://codeforces.com/contest/122/problem/A",
+    "submission_id": "CF37569177",
+    "submission_url": "https://codeforces.com/contest/122/submission/37569177",
+    "tags": [
+      "brute force",
+      "number theory",
+      "*1000"
+    ],
+    "timestamp": "Apr/24/2018 17:30"
+  },
+  "CF37585301": {
+    "contest_id": 236,
+    "language": "GNU C++11",
+    "path": "codeforces\\236\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Boy or Girl",
+    "problem_url": "https://codeforces.com/contest/236/problem/A",
+    "submission_id": "CF37585301",
+    "submission_url": "https://codeforces.com/contest/236/submission/37585301",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Apr/25/2018 06:54"
+  },
+  "CF37585386": {
+    "contest_id": 546,
+    "language": "GNU C++11",
+    "path": "codeforces\\546\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Soldier and Bananas",
+    "problem_url": "https://codeforces.com/contest/546/problem/A",
+    "submission_id": "CF37585386",
+    "submission_url": "https://codeforces.com/contest/546/submission/37585386",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/25/2018 07:04"
+  },
+  "CF37585734": {
+    "contest_id": 69,
+    "language": "GNU C++11",
+    "path": "codeforces\\69\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Young Physicist",
+    "problem_url": "https://codeforces.com/contest/69/problem/A",
+    "submission_id": "CF37585734",
+    "submission_url": "https://codeforces.com/contest/69/submission/37585734",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Apr/25/2018 07:50"
+  },
+  "CF37586079": {
+    "contest_id": 467,
+    "language": "GNU C++11",
+    "path": "codeforces\\467\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "George and Accommodation",
+    "problem_url": "https://codeforces.com/contest/467/problem/A",
+    "submission_id": "CF37586079",
+    "submission_url": "https://codeforces.com/contest/467/submission/37586079",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/25/2018 08:28"
+  },
+  "CF37588915": {
+    "contest_id": 110,
+    "language": "GNU C++11",
+    "path": "codeforces\\110\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Nearly Lucky Number",
+    "problem_url": "https://codeforces.com/contest/110/problem/A",
+    "submission_id": "CF37588915",
+    "submission_url": "https://codeforces.com/contest/110/submission/37588915",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/25/2018 13:24"
+  },
+  "CF37589272": {
+    "contest_id": 266,
+    "language": "GNU C++11",
+    "path": "codeforces\\266\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Queue at the School",
+    "problem_url": "https://codeforces.com/contest/266/problem/B",
+    "submission_id": "CF37589272",
+    "submission_url": "https://codeforces.com/contest/266/submission/37589272",
+    "tags": [
+      "constructive algorithms",
+      "graph matchings",
+      "implementation",
+      "shortest paths",
+      "*800"
+    ],
+    "timestamp": "Apr/25/2018 13:49"
+  },
+  "CF37589806": {
+    "contest_id": 41,
+    "language": "GNU C++11",
+    "path": "codeforces\\41\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Translation",
+    "problem_url": "https://codeforces.com/contest/41/problem/A",
+    "submission_id": "CF37589806",
+    "submission_url": "https://codeforces.com/contest/41/submission/37589806",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Apr/25/2018 14:21"
+  },
+  "CF37598357": {
+    "contest_id": 271,
+    "language": "GNU C++11",
+    "path": "codeforces\\271\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Beautiful Year",
+    "problem_url": "https://codeforces.com/contest/271/problem/A",
+    "submission_id": "CF37598357",
+    "submission_url": "https://codeforces.com/contest/271/submission/37598357",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Apr/25/2018 20:22"
+  },
+  "CF37608925": {
+    "contest_id": 965,
+    "language": "GNU C++11",
+    "path": "codeforces\\965\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Paper Airplanes",
+    "problem_url": "https://codeforces.com/contest/965/problem/A",
+    "submission_id": "CF37608925",
+    "submission_url": "https://codeforces.com/contest/965/submission/37608925",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/26/2018 01:09"
+  },
+  "CF37648656": {
+    "contest_id": 337,
+    "language": "GNU C++11",
+    "path": "codeforces\\337\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Puzzles",
+    "problem_url": "https://codeforces.com/contest/337/problem/A",
+    "submission_id": "CF37648656",
+    "submission_url": "https://codeforces.com/contest/337/submission/37648656",
+    "tags": [
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Apr/27/2018 06:58"
+  },
+  "CF37648712": {
+    "contest_id": 580,
+    "language": "GNU C++11",
+    "path": "codeforces\\580\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Kefa and First Steps",
+    "problem_url": "https://codeforces.com/contest/580/problem/A",
+    "submission_id": "CF37648712",
+    "submission_url": "https://codeforces.com/contest/580/submission/37648712",
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Apr/27/2018 07:08"
+  },
+  "CF37648983": {
+    "contest_id": 479,
+    "language": "GNU C++11",
+    "path": "codeforces\\479\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Expression",
+    "problem_url": "https://codeforces.com/contest/479/problem/A",
+    "submission_id": "CF37648983",
+    "submission_url": "https://codeforces.com/contest/479/submission/37648983",
+    "tags": [
+      "brute force",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Apr/27/2018 07:56"
+  },
+  "CF37650614": {
+    "contest_id": 136,
+    "language": "GNU C++11",
+    "path": "codeforces\\136\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Presents",
+    "problem_url": "https://codeforces.com/contest/136/problem/A",
+    "submission_id": "CF37650614",
+    "submission_url": "https://codeforces.com/contest/136/submission/37650614",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/27/2018 10:46"
+  },
+  "CF37650696": {
+    "contest_id": 486,
+    "language": "GNU C++11",
+    "path": "codeforces\\486\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Calculating Function",
+    "problem_url": "https://codeforces.com/contest/486/problem/A",
+    "submission_id": "CF37650696",
+    "submission_url": "https://codeforces.com/contest/486/submission/37650696",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/27/2018 10:57"
+  },
+  "CF37650725": {
+    "contest_id": 617,
+    "language": "GNU C++11",
+    "path": "codeforces\\617\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Elephant",
+    "problem_url": "https://codeforces.com/contest/617/problem/A",
+    "submission_id": "CF37650725",
+    "submission_url": "https://codeforces.com/contest/617/submission/37650725",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/27/2018 11:01"
+  },
+  "CF37652047": {
+    "contest_id": 208,
+    "language": "GNU C++11",
+    "path": "codeforces\\208\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dubstep",
+    "problem_url": "https://codeforces.com/contest/208/problem/A",
+    "submission_id": "CF37652047",
+    "submission_url": "https://codeforces.com/contest/208/submission/37652047",
+    "tags": [
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Apr/27/2018 12:56"
+  },
+  "CF37652338": {
+    "contest_id": 318,
+    "language": "GNU C++11",
+    "path": "codeforces\\318\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Even Odds",
+    "problem_url": "https://codeforces.com/contest/318/problem/A",
+    "submission_id": "CF37652338",
+    "submission_url": "https://codeforces.com/contest/318/submission/37652338",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Apr/27/2018 13:18"
+  },
+  "CF37652505": {
+    "contest_id": 451,
+    "language": "GNU C++11",
+    "path": "codeforces\\451\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Game With Sticks",
+    "problem_url": "https://codeforces.com/contest/451/problem/A",
+    "submission_id": "CF37652505",
+    "submission_url": "https://codeforces.com/contest/451/submission/37652505",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Apr/27/2018 13:30"
+  },
+  "CF37652796": {
+    "contest_id": 469,
+    "language": "GNU C++11",
+    "path": "codeforces\\469\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "I Wanna Be the Guy",
+    "problem_url": "https://codeforces.com/contest/469/problem/A",
+    "submission_id": "CF37652796",
+    "submission_url": "https://codeforces.com/contest/469/submission/37652796",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/27/2018 13:45"
+  },
+  "CF37655939": {
+    "contest_id": 144,
+    "language": "GNU C++11",
+    "path": "codeforces\\144\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Arrival of the General",
+    "problem_url": "https://codeforces.com/contest/144/problem/A",
+    "submission_id": "CF37655939",
+    "submission_url": "https://codeforces.com/contest/144/submission/37655939",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/27/2018 16:40"
+  },
+  "CF37656168": {
+    "contest_id": 344,
+    "language": "GNU C++11",
+    "path": "codeforces\\344\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Magnets",
+    "problem_url": "https://codeforces.com/contest/344/problem/A",
+    "submission_id": "CF37656168",
+    "submission_url": "https://codeforces.com/contest/344/submission/37656168",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/27/2018 16:49"
+  },
+  "CF37656535": {
+    "contest_id": 59,
+    "language": "GNU C++11",
+    "path": "codeforces\\59\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Word",
+    "problem_url": "https://codeforces.com/contest/59/problem/A",
+    "submission_id": "CF37656535",
+    "submission_url": "https://codeforces.com/contest/59/submission/37656535",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Apr/27/2018 17:03"
+  },
+  "CF37656713": {
+    "contest_id": 405,
+    "language": "GNU C++11",
+    "path": "codeforces\\405\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Gravity Flip",
+    "problem_url": "https://codeforces.com/contest/405/problem/A",
+    "submission_id": "CF37656713",
+    "submission_url": "https://codeforces.com/contest/405/submission/37656713",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Apr/27/2018 17:10"
+  },
+  "CF37662955": {
+    "contest_id": 472,
+    "language": "GNU C++11",
+    "path": "codeforces\\472\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Design Tutorial: Learn from Math",
+    "problem_url": "https://codeforces.com/contest/472/problem/A",
+    "submission_id": "CF37662955",
+    "submission_url": "https://codeforces.com/contest/472/submission/37662955",
+    "tags": [
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Apr/27/2018 20:45"
+  },
+  "CF37663721": {
+    "contest_id": 25,
+    "language": "GNU C++11",
+    "path": "codeforces\\25\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "IQ test",
+    "problem_url": "https://codeforces.com/contest/25/problem/A",
+    "submission_id": "CF37663721",
+    "submission_url": "https://codeforces.com/contest/25/submission/37663721",
+    "tags": [
+      "brute force",
+      "*1300"
+    ],
+    "timestamp": "Apr/27/2018 21:09"
+  },
+  "CF37673504": {
+    "contest_id": 268,
+    "language": "GNU C++11",
+    "path": "codeforces\\268\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Games",
+    "problem_url": "https://codeforces.com/contest/268/problem/A",
+    "submission_id": "CF37673504",
+    "submission_url": "https://codeforces.com/contest/268/submission/37673504",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Apr/28/2018 06:30"
+  },
+  "CF37677766": {
+    "contest_id": 443,
+    "language": "GNU C++11",
+    "path": "codeforces\\443\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Anton and Letters",
+    "problem_url": "https://codeforces.com/contest/443/problem/A",
+    "submission_id": "CF37677766",
+    "submission_url": "https://codeforces.com/contest/443/submission/37677766",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/28/2018 13:41"
+  },
+  "CF37677878": {
+    "contest_id": 734,
+    "language": "GNU C++11",
+    "path": "codeforces\\734\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Anton and Danik",
+    "problem_url": "https://codeforces.com/contest/734/problem/A",
+    "submission_id": "CF37677878",
+    "submission_url": "https://codeforces.com/contest/734/submission/37677878",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Apr/28/2018 13:47"
+  },
+  "CF37684109": {
+    "contest_id": 379,
+    "language": "GNU C++11",
+    "path": "codeforces\\379\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "New Year Candles",
+    "problem_url": "https://codeforces.com/contest/379/problem/A",
+    "submission_id": "CF37684109",
+    "submission_url": "https://codeforces.com/contest/379/submission/37684109",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Apr/28/2018 18:41"
+  },
+  "CF37685585": {
+    "contest_id": 520,
+    "language": "GNU C++11",
+    "path": "codeforces\\520\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Pangram",
+    "problem_url": "https://codeforces.com/contest/520/problem/A",
+    "submission_id": "CF37685585",
+    "submission_url": "https://codeforces.com/contest/520/submission/37685585",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Apr/28/2018 19:34"
+  },
+  "CF37685914": {
+    "contest_id": 228,
+    "language": "GNU C++11",
+    "path": "codeforces\\228\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Is your horseshoe on the other hoof?",
+    "problem_url": "https://codeforces.com/contest/228/problem/A",
+    "submission_id": "CF37685914",
+    "submission_url": "https://codeforces.com/contest/228/submission/37685914",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/28/2018 19:45"
+  },
+  "CF37698897": {
+    "contest_id": 500,
+    "language": "GNU C++11",
+    "path": "codeforces\\500\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "New Year Transportation",
+    "problem_url": "https://codeforces.com/contest/500/problem/A",
+    "submission_id": "CF37698897",
+    "submission_url": "https://codeforces.com/contest/500/submission/37698897",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Apr/29/2018 10:21"
+  },
+  "CF37701560": {
+    "contest_id": 141,
+    "language": "GNU C++11",
+    "path": "codeforces\\141\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Amusing Joke",
+    "problem_url": "https://codeforces.com/contest/141/problem/A",
+    "submission_id": "CF37701560",
+    "submission_url": "https://codeforces.com/contest/141/submission/37701560",
+    "tags": [
+      "implementation",
+      "sortings",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Apr/29/2018 13:23"
+  },
+  "CF37754647": {
+    "contest_id": 976,
+    "language": "GNU C++11",
+    "path": "codeforces\\976\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Minimum Binary Number",
+    "problem_url": "https://codeforces.com/contest/976/problem/A",
+    "submission_id": "CF37754647",
+    "submission_url": "https://codeforces.com/contest/976/submission/37754647",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/30/2018 21:54"
+  },
+  "CF37766502": {
+    "contest_id": 976,
+    "language": "GNU C++11",
+    "path": "codeforces\\976\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Lara Croft and the New Game",
+    "problem_url": "https://codeforces.com/contest/976/problem/B",
+    "submission_id": "CF37766502",
+    "submission_url": "https://codeforces.com/contest/976/submission/37766502",
+    "tags": [
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Apr/30/2018 22:50"
+  },
+  "CF37795522": {
+    "contest_id": 339,
+    "language": "GNU C++11",
+    "path": "codeforces\\339\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Xenia and Ringroad",
+    "problem_url": "https://codeforces.com/contest/339/problem/B",
+    "submission_id": "CF37795522",
+    "submission_url": "https://codeforces.com/contest/339/submission/37795522",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "May/01/2018 17:42"
+  },
+  "CF37796044": {
+    "contest_id": 230,
+    "language": "GNU C++11",
+    "path": "codeforces\\230\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dragons",
+    "problem_url": "https://codeforces.com/contest/230/problem/A",
+    "submission_id": "CF37796044",
+    "submission_url": "https://codeforces.com/contest/230/submission/37796044",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "May/01/2018 18:02"
+  },
+  "CF37832294": {
+    "contest_id": 492,
+    "language": "GNU C++11",
+    "path": "codeforces\\492\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Vanya and Lanterns",
+    "problem_url": "https://codeforces.com/contest/492/problem/B",
+    "submission_id": "CF37832294",
+    "submission_url": "https://codeforces.com/contest/492/submission/37832294",
+    "tags": [
+      "binary search",
+      "implementation",
+      "math",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "May/02/2018 13:33"
+  },
+  "CF37833572": {
+    "contest_id": 705,
+    "language": "GNU C++11",
+    "path": "codeforces\\705\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Hulk",
+    "problem_url": "https://codeforces.com/contest/705/problem/A",
+    "submission_id": "CF37833572",
+    "submission_url": "https://codeforces.com/contest/705/submission/37833572",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/02/2018 14:52"
+  },
+  "CF37840050": {
+    "contest_id": 119,
+    "language": "GNU C++11",
+    "path": "codeforces\\119\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Epic Game",
+    "problem_url": "https://codeforces.com/contest/119/problem/A",
+    "submission_id": "CF37840050",
+    "submission_url": "https://codeforces.com/contest/119/submission/37840050",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/02/2018 19:36"
+  },
+  "CF37841088": {
+    "contest_id": 200,
+    "language": "GNU C++11",
+    "path": "codeforces\\200\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Drinks",
+    "problem_url": "https://codeforces.com/contest/200/problem/B",
+    "submission_id": "CF37841088",
+    "submission_url": "https://codeforces.com/contest/200/submission/37841088",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/02/2018 20:17"
+  },
+  "CF37864138": {
+    "contest_id": 466,
+    "language": "GNU C++11",
+    "path": "codeforces\\466\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cheap Travel",
+    "problem_url": "https://codeforces.com/contest/466/problem/A",
+    "submission_id": "CF37864138",
+    "submission_url": "https://codeforces.com/contest/466/submission/37864138",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "May/03/2018 20:42"
+  },
+  "CF37864524": {
+    "contest_id": 723,
+    "language": "GNU C++11",
+    "path": "codeforces\\723\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "The New Year: Meeting Friends",
+    "problem_url": "https://codeforces.com/contest/723/problem/A",
+    "submission_id": "CF37864524",
+    "submission_url": "https://codeforces.com/contest/723/submission/37864524",
+    "tags": [
+      "implementation",
+      "math",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "May/03/2018 21:00"
+  },
+  "CF37864886": {
+    "contest_id": 313,
+    "language": "GNU C++11",
+    "path": "codeforces\\313\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ilya and Bank Account",
+    "problem_url": "https://codeforces.com/contest/313/problem/A",
+    "submission_id": "CF37864886",
+    "submission_url": "https://codeforces.com/contest/313/submission/37864886",
+    "tags": [
+      "implementation",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "May/03/2018 21:19"
+  },
+  "CF37918130": {
+    "contest_id": 455,
+    "language": "GNU C++11",
+    "path": "codeforces\\455\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Boredom",
+    "problem_url": "https://codeforces.com/contest/455/problem/A",
+    "submission_id": "CF37918130",
+    "submission_url": "https://codeforces.com/contest/455/submission/37918130",
+    "tags": [
+      "dp",
+      "*1500"
+    ],
+    "timestamp": "May/06/2018 11:08"
+  },
+  "CF37918298": {
+    "contest_id": 155,
+    "language": "GNU C++11",
+    "path": "codeforces\\155\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "I_love_\\%username\\%",
+    "problem_url": "https://codeforces.com/contest/155/problem/A",
+    "submission_id": "CF37918298",
+    "submission_url": "https://codeforces.com/contest/155/submission/37918298",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "May/06/2018 11:20"
+  },
+  "CF37920855": {
+    "contest_id": 750,
+    "language": "GNU C++11",
+    "path": "codeforces\\750\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "New Year and Hurry",
+    "problem_url": "https://codeforces.com/contest/750/problem/A",
+    "submission_id": "CF37920855",
+    "submission_url": "https://codeforces.com/contest/750/submission/37920855",
+    "tags": [
+      "binary search",
+      "brute force",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/06/2018 13:35"
+  },
+  "CF37921922": {
+    "contest_id": 492,
+    "language": "GNU C++11",
+    "path": "codeforces\\492\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Vanya and Cubes",
+    "problem_url": "https://codeforces.com/contest/492/problem/A",
+    "submission_id": "CF37921922",
+    "submission_url": "https://codeforces.com/contest/492/submission/37921922",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/06/2018 14:24"
+  },
+  "CF37922820": {
+    "contest_id": 732,
+    "language": "GNU C++11",
+    "path": "codeforces\\732\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Buy a Shovel",
+    "problem_url": "https://codeforces.com/contest/732/problem/A",
+    "submission_id": "CF37922820",
+    "submission_url": "https://codeforces.com/contest/732/submission/37922820",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/06/2018 15:02"
+  },
+  "CF37923053": {
+    "contest_id": 581,
+    "language": "GNU C++11",
+    "path": "codeforces\\581\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Vasya the Hipster",
+    "problem_url": "https://codeforces.com/contest/581/problem/A",
+    "submission_id": "CF37923053",
+    "submission_url": "https://codeforces.com/contest/581/submission/37923053",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/06/2018 15:12"
+  },
+  "CF37923182": {
+    "contest_id": 791,
+    "language": "GNU C++11",
+    "path": "codeforces\\791\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Bear and Big Brother",
+    "problem_url": "https://codeforces.com/contest/791/problem/A",
+    "submission_id": "CF37923182",
+    "submission_url": "https://codeforces.com/contest/791/submission/37923182",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/06/2018 15:18"
+  },
+  "CF37923586": {
+    "contest_id": 584,
+    "language": "GNU C++11",
+    "path": "codeforces\\584\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Olesya and Rodion",
+    "problem_url": "https://codeforces.com/contest/584/problem/A",
+    "submission_id": "CF37923586",
+    "submission_url": "https://codeforces.com/contest/584/submission/37923586",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "May/06/2018 15:34"
+  },
+  "CF47019445": {
+    "contest_id": 863,
+    "language": "GNU C++14",
+    "path": "codeforces\\863\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Quasi-palindrome",
+    "problem_url": "https://codeforces.com/contest/863/problem/A",
+    "submission_id": "CF47019445",
+    "submission_url": "https://codeforces.com/contest/863/submission/47019445",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Dec/15/2018 05:27"
+  },
+  "CF47020901": {
+    "contest_id": 408,
+    "language": "GNU C++14",
+    "path": "codeforces\\408\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Line to Cashier",
+    "problem_url": "https://codeforces.com/contest/408/problem/A",
+    "submission_id": "CF47020901",
+    "submission_url": "https://codeforces.com/contest/408/submission/47020901",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Dec/15/2018 08:36"
+  },
+  "CF47020979": {
+    "contest_id": 104,
+    "language": "GNU C++14",
+    "path": "codeforces\\104\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Blackjack",
+    "problem_url": "https://codeforces.com/contest/104/problem/A",
+    "submission_id": "CF47020979",
+    "submission_url": "https://codeforces.com/contest/104/submission/47020979",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/15/2018 08:46"
+  },
+  "CF47021074": {
+    "contest_id": 415,
+    "language": "GNU C++14",
+    "path": "codeforces\\415\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Mashmokh and Lights",
+    "problem_url": "https://codeforces.com/contest/415/problem/A",
+    "submission_id": "CF47021074",
+    "submission_url": "https://codeforces.com/contest/415/submission/47021074",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Dec/15/2018 08:56"
+  },
+  "CF47021182": {
+    "contest_id": 794,
+    "language": "GNU C++14",
+    "path": "codeforces\\794\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Bank Robbery",
+    "problem_url": "https://codeforces.com/contest/794/problem/A",
+    "submission_id": "CF47021182",
+    "submission_url": "https://codeforces.com/contest/794/submission/47021182",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/15/2018 09:08"
+  },
+  "CF47039292": {
+    "contest_id": 46,
+    "language": "GNU C++14",
+    "path": "codeforces\\46\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ball Game",
+    "problem_url": "https://codeforces.com/contest/46/problem/A",
+    "submission_id": "CF47039292",
+    "submission_url": "https://codeforces.com/contest/46/submission/47039292",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/15/2018 20:54"
+  },
+  "CF47039762": {
+    "contest_id": 169,
+    "language": "GNU C++14",
+    "path": "codeforces\\169\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Chores",
+    "problem_url": "https://codeforces.com/contest/169/problem/A",
+    "submission_id": "CF47039762",
+    "submission_url": "https://codeforces.com/contest/169/submission/47039762",
+    "tags": [
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Dec/15/2018 21:07"
+  },
+  "CF47040020": {
+    "contest_id": 48,
+    "language": "GNU C++14",
+    "path": "codeforces\\48\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Rock-paper-scissors",
+    "problem_url": "https://codeforces.com/contest/48/problem/A",
+    "submission_id": "CF47040020",
+    "submission_url": "https://codeforces.com/contest/48/submission/47040020",
+    "tags": [
+      "implementation",
+      "schedules",
+      "*900"
+    ],
+    "timestamp": "Dec/15/2018 21:15"
+  },
+  "CF47041643": {
+    "contest_id": 1093,
+    "language": "GNU C++14",
+    "path": "codeforces\\1093\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dice Rolling",
+    "problem_url": "https://codeforces.com/contest/1093/problem/A",
+    "submission_id": "CF47041643",
+    "submission_url": "https://codeforces.com/contest/1093/submission/47041643",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/15/2018 21:38"
+  },
+  "CF47046702": {
+    "contest_id": 1093,
+    "language": "GNU C++14",
+    "path": "codeforces\\1093\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Letters Rearranging",
+    "problem_url": "https://codeforces.com/contest/1093/problem/B",
+    "submission_id": "CF47046702",
+    "submission_url": "https://codeforces.com/contest/1093/submission/47046702",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Dec/15/2018 21:48"
+  },
+  "CF47061527": {
+    "contest_id": 1093,
+    "language": "GNU C++14",
+    "path": "codeforces\\1093\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Mishka and the Last Exam",
+    "problem_url": "https://codeforces.com/contest/1093/problem/C",
+    "submission_id": "CF47061527",
+    "submission_url": "https://codeforces.com/contest/1093/submission/47061527",
+    "tags": [
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "Dec/15/2018 22:37"
+  },
+  "CF47085262": {
+    "contest_id": 1093,
+    "language": "GNU C++14",
+    "path": "codeforces\\1093\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dice Rolling",
+    "problem_url": "https://codeforces.com/contest/1093/problem/A",
+    "submission_id": "CF47085262",
+    "submission_url": "https://codeforces.com/contest/1093/submission/47085262",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/16/2018 08:38"
+  },
+  "CF47141807": {
+    "contest_id": 1081,
+    "language": "GNU C++14",
+    "path": "codeforces\\1081\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Definite Game",
+    "problem_url": "https://codeforces.com/contest/1081/problem/A",
+    "submission_id": "CF47141807",
+    "submission_url": "https://codeforces.com/contest/1081/submission/47141807",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/17/2018 03:37"
+  },
+  "CF47143877": {
+    "contest_id": 588,
+    "language": "GNU C++14",
+    "path": "codeforces\\588\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Duff and Meat",
+    "problem_url": "https://codeforces.com/contest/588/problem/A",
+    "submission_id": "CF47143877",
+    "submission_url": "https://codeforces.com/contest/588/submission/47143877",
+    "tags": [
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Dec/17/2018 06:03"
+  },
+  "CF47143986": {
+    "contest_id": 499,
+    "language": "GNU C++14",
+    "path": "codeforces\\499\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Lecture",
+    "problem_url": "https://codeforces.com/contest/499/problem/B",
+    "submission_id": "CF47143986",
+    "submission_url": "https://codeforces.com/contest/499/submission/47143986",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Dec/17/2018 06:15"
+  },
+  "CF47144115": {
+    "contest_id": 567,
+    "language": "GNU C++14",
+    "path": "codeforces\\567\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Lineland Mail",
+    "problem_url": "https://codeforces.com/contest/567/problem/A",
+    "submission_id": "CF47144115",
+    "submission_url": "https://codeforces.com/contest/567/submission/47144115",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Dec/17/2018 06:28"
+  },
+  "CF47144141": {
+    "contest_id": 567,
+    "language": "GNU C++14",
+    "path": "codeforces\\567\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Lineland Mail",
+    "problem_url": "https://codeforces.com/contest/567/problem/A",
+    "submission_id": "CF47144141",
+    "submission_url": "https://codeforces.com/contest/567/submission/47144141",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Dec/17/2018 06:30"
+  },
+  "CF47161211": {
+    "contest_id": 742,
+    "language": "GNU C++14",
+    "path": "codeforces\\742\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Arpa\u2019s hard exam and Mehrdad\u2019s naive cheat",
+    "problem_url": "https://codeforces.com/contest/742/problem/A",
+    "submission_id": "CF47161211",
+    "submission_url": "https://codeforces.com/contest/742/submission/47161211",
+    "tags": [
+      "implementation",
+      "math",
+      "number theory",
+      "*1000"
+    ],
+    "timestamp": "Dec/17/2018 16:59"
+  },
+  "CF47161584": {
+    "contest_id": 124,
+    "language": "GNU C++14",
+    "path": "codeforces\\124\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "The number of positions",
+    "problem_url": "https://codeforces.com/contest/124/problem/A",
+    "submission_id": "CF47161584",
+    "submission_url": "https://codeforces.com/contest/124/submission/47161584",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Dec/17/2018 17:13"
+  },
+  "CF47162282": {
+    "contest_id": 733,
+    "language": "GNU C++14",
+    "path": "codeforces\\733\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Grasshopper And the String",
+    "problem_url": "https://codeforces.com/contest/733/problem/A",
+    "submission_id": "CF47162282",
+    "submission_url": "https://codeforces.com/contest/733/submission/47162282",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Dec/17/2018 17:36"
+  },
+  "CF47162443": {
+    "contest_id": 688,
+    "language": "GNU C++14",
+    "path": "codeforces\\688\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Lovely Palindromes",
+    "problem_url": "https://codeforces.com/contest/688/problem/B",
+    "submission_id": "CF47162443",
+    "submission_url": "https://codeforces.com/contest/688/submission/47162443",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Dec/17/2018 17:42"
+  },
+  "CF47162590": {
+    "contest_id": 621,
+    "language": "GNU C++14",
+    "path": "codeforces\\621\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Wet Shark and Odd and Even",
+    "problem_url": "https://codeforces.com/contest/621/problem/A",
+    "submission_id": "CF47162590",
+    "submission_url": "https://codeforces.com/contest/621/submission/47162590",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Dec/17/2018 17:48"
+  },
+  "CF47162853": {
+    "contest_id": 913,
+    "language": "GNU C++14",
+    "path": "codeforces\\913\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Modular Exponentiation",
+    "problem_url": "https://codeforces.com/contest/913/problem/A",
+    "submission_id": "CF47162853",
+    "submission_url": "https://codeforces.com/contest/913/submission/47162853",
+    "tags": [
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Dec/17/2018 17:57"
+  },
+  "CF47163278": {
+    "contest_id": 214,
+    "language": "GNU C++14",
+    "path": "codeforces\\214\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "System of Equations",
+    "problem_url": "https://codeforces.com/contest/214/problem/A",
+    "submission_id": "CF47163278",
+    "submission_url": "https://codeforces.com/contest/214/submission/47163278",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Dec/17/2018 18:11"
+  },
+  "CF47163837": {
+    "contest_id": 999,
+    "language": "GNU C++14",
+    "path": "codeforces\\999\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Alphabetic Removals",
+    "problem_url": "https://codeforces.com/contest/999/problem/C",
+    "submission_id": "CF47163837",
+    "submission_url": "https://codeforces.com/contest/999/submission/47163837",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Dec/17/2018 18:30"
+  },
+  "CF47194028": {
+    "contest_id": 9,
+    "language": "GNU C++14",
+    "path": "codeforces\\9\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Die Roll",
+    "problem_url": "https://codeforces.com/contest/9/problem/A",
+    "submission_id": "CF47194028",
+    "submission_url": "https://codeforces.com/contest/9/submission/47194028",
+    "tags": [
+      "math",
+      "probabilities",
+      "*800"
+    ],
+    "timestamp": "Dec/18/2018 20:39"
+  },
+  "CF47194236": {
+    "contest_id": 551,
+    "language": "GNU C++14",
+    "path": "codeforces\\551\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "GukiZ and Contest",
+    "problem_url": "https://codeforces.com/contest/551/problem/A",
+    "submission_id": "CF47194236",
+    "submission_url": "https://codeforces.com/contest/551/submission/47194236",
+    "tags": [
+      "brute force",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Dec/18/2018 20:45"
+  },
+  "CF47194563": {
+    "contest_id": 766,
+    "language": "GNU C++14",
+    "path": "codeforces\\766\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Mahmoud and Longest Uncommon Subsequence",
+    "problem_url": "https://codeforces.com/contest/766/problem/A",
+    "submission_id": "CF47194563",
+    "submission_url": "https://codeforces.com/contest/766/submission/47194563",
+    "tags": [
+      "constructive algorithms",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Dec/18/2018 20:54"
+  },
+  "CF47194822": {
+    "contest_id": 34,
+    "language": "GNU C++14",
+    "path": "codeforces\\34\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sale",
+    "problem_url": "https://codeforces.com/contest/34/problem/B",
+    "submission_id": "CF47194822",
+    "submission_url": "https://codeforces.com/contest/34/submission/47194822",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Dec/18/2018 21:01"
+  },
+  "CF47195073": {
+    "contest_id": 320,
+    "language": "GNU C++14",
+    "path": "codeforces\\320\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Magic Numbers",
+    "problem_url": "https://codeforces.com/contest/320/problem/A",
+    "submission_id": "CF47195073",
+    "submission_url": "https://codeforces.com/contest/320/submission/47195073",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Dec/18/2018 21:08"
+  },
+  "CF47195655": {
+    "contest_id": 441,
+    "language": "GNU C++14",
+    "path": "codeforces\\441\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Valera and Antique Items",
+    "problem_url": "https://codeforces.com/contest/441/problem/A",
+    "submission_id": "CF47195655",
+    "submission_url": "https://codeforces.com/contest/441/submission/47195655",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Dec/18/2018 21:25"
+  },
+  "CF47202042": {
+    "contest_id": 1092,
+    "language": "GNU C++14",
+    "path": "codeforces\\1092\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Uniform String",
+    "problem_url": "https://codeforces.com/contest/1092/problem/A",
+    "submission_id": "CF47202042",
+    "submission_url": "https://codeforces.com/contest/1092/submission/47202042",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/18/2018 21:50"
+  },
+  "CF47203581": {
+    "contest_id": 1092,
+    "language": "GNU C++14",
+    "path": "codeforces\\1092\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Teams Forming",
+    "problem_url": "https://codeforces.com/contest/1092/problem/B",
+    "submission_id": "CF47203581",
+    "submission_url": "https://codeforces.com/contest/1092/submission/47203581",
+    "tags": [
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Dec/18/2018 21:54"
+  },
+  "CF47256315": {
+    "contest_id": 1083,
+    "language": "GNU C++14",
+    "path": "codeforces\\1083\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The Fair Nut and Strings",
+    "problem_url": "https://codeforces.com/contest/1083/problem/B",
+    "submission_id": "CF47256315",
+    "submission_url": "https://codeforces.com/contest/1083/submission/47256315",
+    "tags": [
+      "greedy",
+      "strings",
+      "*2000"
+    ],
+    "timestamp": "Dec/19/2018 17:35"
+  },
+  "CF47289663": {
+    "contest_id": 276,
+    "language": "GNU C++14",
+    "path": "codeforces\\276\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Lunch Rush",
+    "problem_url": "https://codeforces.com/contest/276/problem/A",
+    "submission_id": "CF47289663",
+    "submission_url": "https://codeforces.com/contest/276/submission/47289663",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Dec/20/2018 15:25"
+  },
+  "CF47337668": {
+    "contest_id": 598,
+    "language": "GNU C++14",
+    "path": "codeforces\\598\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Tricky Sum",
+    "problem_url": "https://codeforces.com/contest/598/problem/A",
+    "submission_id": "CF47337668",
+    "submission_url": "https://codeforces.com/contest/598/submission/47337668",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Dec/21/2018 22:50"
+  },
+  "CF47337935": {
+    "contest_id": 1066,
+    "language": "GNU C++14",
+    "path": "codeforces\\1066\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Vova and Train",
+    "problem_url": "https://codeforces.com/contest/1066/problem/A",
+    "submission_id": "CF47337935",
+    "submission_url": "https://codeforces.com/contest/1066/submission/47337935",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Dec/21/2018 22:58"
+  },
+  "CF47338822": {
+    "contest_id": 978,
+    "language": "GNU C++14",
+    "path": "codeforces\\978\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Bus Video System",
+    "problem_url": "https://codeforces.com/contest/978/problem/E",
+    "submission_id": "CF47338822",
+    "submission_url": "https://codeforces.com/contest/978/submission/47338822",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Dec/21/2018 23:21"
+  },
+  "CF47340274": {
+    "contest_id": 459,
+    "language": "GNU C++14",
+    "path": "codeforces\\459\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Pashmak and Flowers",
+    "problem_url": "https://codeforces.com/contest/459/problem/B",
+    "submission_id": "CF47340274",
+    "submission_url": "https://codeforces.com/contest/459/submission/47340274",
+    "tags": [
+      "combinatorics",
+      "implementation",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Dec/22/2018 00:02"
+  },
+  "CF47349516": {
+    "contest_id": 501,
+    "language": "GNU C++14",
+    "path": "codeforces\\501\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Contest",
+    "problem_url": "https://codeforces.com/contest/501/problem/A",
+    "submission_id": "CF47349516",
+    "submission_url": "https://codeforces.com/contest/501/submission/47349516",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Dec/22/2018 07:40"
+  },
+  "CF47349583": {
+    "contest_id": 450,
+    "language": "GNU C++14",
+    "path": "codeforces\\450\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Jzzhu and Children",
+    "problem_url": "https://codeforces.com/contest/450/problem/A",
+    "submission_id": "CF47349583",
+    "submission_url": "https://codeforces.com/contest/450/submission/47349583",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Dec/22/2018 07:47"
+  },
+  "CF47349814": {
+    "contest_id": 839,
+    "language": "GNU C++14",
+    "path": "codeforces\\839\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Arya and Bran",
+    "problem_url": "https://codeforces.com/contest/839/problem/A",
+    "submission_id": "CF47349814",
+    "submission_url": "https://codeforces.com/contest/839/submission/47349814",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Dec/22/2018 08:06"
+  },
+  "CF47349881": {
+    "contest_id": 572,
+    "language": "GNU C++14",
+    "path": "codeforces\\572\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Arrays",
+    "problem_url": "https://codeforces.com/contest/572/problem/A",
+    "submission_id": "CF47349881",
+    "submission_url": "https://codeforces.com/contest/572/submission/47349881",
+    "tags": [
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Dec/22/2018 08:12"
+  },
+  "CF47357039": {
+    "contest_id": 583,
+    "language": "GNU C++14",
+    "path": "codeforces\\583\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Asphalting Roads",
+    "problem_url": "https://codeforces.com/contest/583/problem/A",
+    "submission_id": "CF47357039",
+    "submission_url": "https://codeforces.com/contest/583/submission/47357039",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Dec/22/2018 13:46"
+  },
+  "CF47383112": {
+    "contest_id": 670,
+    "language": "GNU C++14",
+    "path": "codeforces\\670\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Holidays",
+    "problem_url": "https://codeforces.com/contest/670/problem/A",
+    "submission_id": "CF47383112",
+    "submission_url": "https://codeforces.com/contest/670/submission/47383112",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Dec/23/2018 07:33"
+  },
+  "CF47383150": {
+    "contest_id": 805,
+    "language": "GNU C++14",
+    "path": "codeforces\\805\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Fake NP",
+    "problem_url": "https://codeforces.com/contest/805/problem/A",
+    "submission_id": "CF47383150",
+    "submission_url": "https://codeforces.com/contest/805/submission/47383150",
+    "tags": [
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Dec/23/2018 07:36"
+  },
+  "CF47383270": {
+    "contest_id": 768,
+    "language": "GNU C++14",
+    "path": "codeforces\\768\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Oath of the Night's Watch",
+    "problem_url": "https://codeforces.com/contest/768/problem/A",
+    "submission_id": "CF47383270",
+    "submission_url": "https://codeforces.com/contest/768/submission/47383270",
+    "tags": [
+      "constructive algorithms",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Dec/23/2018 07:48"
+  },
+  "CF47383593": {
+    "contest_id": 334,
+    "language": "GNU C++14",
+    "path": "codeforces\\334\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Candy Bags",
+    "problem_url": "https://codeforces.com/contest/334/problem/A",
+    "submission_id": "CF47383593",
+    "submission_url": "https://codeforces.com/contest/334/submission/47383593",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Dec/23/2018 08:23"
+  },
+  "CF47383696": {
+    "contest_id": 496,
+    "language": "GNU C++14",
+    "path": "codeforces\\496\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Minimum Difficulty",
+    "problem_url": "https://codeforces.com/contest/496/problem/A",
+    "submission_id": "CF47383696",
+    "submission_url": "https://codeforces.com/contest/496/submission/47383696",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Dec/23/2018 08:32"
+  },
+  "CF47395635": {
+    "contest_id": 610,
+    "language": "GNU C++14",
+    "path": "codeforces\\610\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Pasha and Stick",
+    "problem_url": "https://codeforces.com/contest/610/problem/A",
+    "submission_id": "CF47395635",
+    "submission_url": "https://codeforces.com/contest/610/submission/47395635",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Dec/23/2018 18:01"
+  },
+  "CF47396349": {
+    "contest_id": 680,
+    "language": "GNU C++14",
+    "path": "codeforces\\680\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Bear and Finding Criminals",
+    "problem_url": "https://codeforces.com/contest/680/problem/B",
+    "submission_id": "CF47396349",
+    "submission_url": "https://codeforces.com/contest/680/submission/47396349",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Dec/23/2018 18:27"
+  },
+  "CF47396799": {
+    "contest_id": 697,
+    "language": "GNU C++14",
+    "path": "codeforces\\697\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Pineapple Incident",
+    "problem_url": "https://codeforces.com/contest/697/problem/A",
+    "submission_id": "CF47396799",
+    "submission_url": "https://codeforces.com/contest/697/submission/47396799",
+    "tags": [
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Dec/23/2018 18:45"
+  },
+  "CF47398390": {
+    "contest_id": 672,
+    "language": "GNU C++14",
+    "path": "codeforces\\672\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Different is Good",
+    "problem_url": "https://codeforces.com/contest/672/problem/B",
+    "submission_id": "CF47398390",
+    "submission_url": "https://codeforces.com/contest/672/submission/47398390",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Dec/23/2018 19:40"
+  },
+  "CF47399181": {
+    "contest_id": 709,
+    "language": "GNU C++14",
+    "path": "codeforces\\709\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Juicer",
+    "problem_url": "https://codeforces.com/contest/709/problem/A",
+    "submission_id": "CF47399181",
+    "submission_url": "https://codeforces.com/contest/709/submission/47399181",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Dec/23/2018 20:10"
+  },
+  "CF47407679": {
+    "contest_id": 1087,
+    "language": "GNU C++14",
+    "path": "codeforces\\1087\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Right-Left Cipher",
+    "problem_url": "https://codeforces.com/contest/1087/problem/A",
+    "submission_id": "CF47407679",
+    "submission_url": "https://codeforces.com/contest/1087/submission/47407679",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Dec/23/2018 20:55"
+  },
+  "CF47416371": {
+    "contest_id": 1087,
+    "language": "GNU C++14",
+    "path": "codeforces\\1087\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Div Times Mod",
+    "problem_url": "https://codeforces.com/contest/1087/problem/B",
+    "submission_id": "CF47416371",
+    "submission_url": "https://codeforces.com/contest/1087/submission/47416371",
+    "tags": [
+      "*1100"
+    ],
+    "timestamp": "Dec/23/2018 21:25"
+  },
+  "CF47477500": {
+    "contest_id": 447,
+    "language": "GNU C++14",
+    "path": "codeforces\\447\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "DZY Loves Strings",
+    "problem_url": "https://codeforces.com/contest/447/problem/B",
+    "submission_id": "CF47477500",
+    "submission_url": "https://codeforces.com/contest/447/submission/47477500",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Dec/25/2018 05:53"
+  },
+  "CF47477712": {
+    "contest_id": 1027,
+    "language": "GNU C++14",
+    "path": "codeforces\\1027\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Palindromic Twist",
+    "problem_url": "https://codeforces.com/contest/1027/problem/A",
+    "submission_id": "CF47477712",
+    "submission_url": "https://codeforces.com/contest/1027/submission/47477712",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Dec/25/2018 06:31"
+  },
+  "CF47477977": {
+    "contest_id": 545,
+    "language": "GNU C++14",
+    "path": "codeforces\\545\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Toy Cars",
+    "problem_url": "https://codeforces.com/contest/545/problem/A",
+    "submission_id": "CF47477977",
+    "submission_url": "https://codeforces.com/contest/545/submission/47477977",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Dec/25/2018 07:04"
+  },
+  "CF47478023": {
+    "contest_id": 805,
+    "language": "GNU C++14",
+    "path": "codeforces\\805\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "3-palindrome",
+    "problem_url": "https://codeforces.com/contest/805/problem/B",
+    "submission_id": "CF47478023",
+    "submission_url": "https://codeforces.com/contest/805/submission/47478023",
+    "tags": [
+      "constructive algorithms",
+      "*1000"
+    ],
+    "timestamp": "Dec/25/2018 07:10"
+  },
+  "CF47478073": {
+    "contest_id": 710,
+    "language": "GNU C++14",
+    "path": "codeforces\\710\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "King Moves",
+    "problem_url": "https://codeforces.com/contest/710/problem/A",
+    "submission_id": "CF47478073",
+    "submission_url": "https://codeforces.com/contest/710/submission/47478073",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/25/2018 07:16"
+  },
+  "CF47483210": {
+    "contest_id": 864,
+    "language": "GNU C++14",
+    "path": "codeforces\\864\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Fair Game",
+    "problem_url": "https://codeforces.com/contest/864/problem/A",
+    "submission_id": "CF47483210",
+    "submission_url": "https://codeforces.com/contest/864/submission/47483210",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Dec/25/2018 13:50"
+  },
+  "CF47483764": {
+    "contest_id": 1077,
+    "language": "GNU C++14",
+    "path": "codeforces\\1077\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Disturbed People",
+    "problem_url": "https://codeforces.com/contest/1077/problem/B",
+    "submission_id": "CF47483764",
+    "submission_url": "https://codeforces.com/contest/1077/submission/47483764",
+    "tags": [
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Dec/25/2018 14:14"
+  },
+  "CF47488122": {
+    "contest_id": 935,
+    "language": "GNU C++14",
+    "path": "codeforces\\935\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Fafa and the Gates",
+    "problem_url": "https://codeforces.com/contest/935/problem/B",
+    "submission_id": "CF47488122",
+    "submission_url": "https://codeforces.com/contest/935/submission/47488122",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Dec/25/2018 17:16"
+  },
+  "CF47488441": {
+    "contest_id": 699,
+    "language": "GNU C++14",
+    "path": "codeforces\\699\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Launch of Collider",
+    "problem_url": "https://codeforces.com/contest/699/problem/A",
+    "submission_id": "CF47488441",
+    "submission_url": "https://codeforces.com/contest/699/submission/47488441",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Dec/25/2018 17:30"
+  },
+  "CF47492384": {
+    "contest_id": 814,
+    "language": "GNU C++14",
+    "path": "codeforces\\814\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "An abandoned sentiment from past",
+    "problem_url": "https://codeforces.com/contest/814/problem/A",
+    "submission_id": "CF47492384",
+    "submission_url": "https://codeforces.com/contest/814/submission/47492384",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Dec/25/2018 19:58"
+  },
+  "CF47492792": {
+    "contest_id": 146,
+    "language": "GNU C++14",
+    "path": "codeforces\\146\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Lucky Ticket",
+    "problem_url": "https://codeforces.com/contest/146/problem/A",
+    "submission_id": "CF47492792",
+    "submission_url": "https://codeforces.com/contest/146/submission/47492792",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/25/2018 20:13"
+  },
+  "CF47506148": {
+    "contest_id": 1011,
+    "language": "GNU C++17",
+    "path": "codeforces\\1011\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Stages",
+    "problem_url": "https://codeforces.com/contest/1011/problem/A",
+    "submission_id": "CF47506148",
+    "submission_url": "https://codeforces.com/contest/1011/submission/47506148",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Dec/26/2018 07:10"
+  },
+  "CF47506216": {
+    "contest_id": 620,
+    "language": "GNU C++17",
+    "path": "codeforces\\620\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Professor GukiZ's Robot",
+    "problem_url": "https://codeforces.com/contest/620/problem/A",
+    "submission_id": "CF47506216",
+    "submission_url": "https://codeforces.com/contest/620/submission/47506216",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/26/2018 07:19"
+  },
+  "CF47506455": {
+    "contest_id": 1059,
+    "language": "GNU C++17",
+    "path": "codeforces\\1059\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cashier",
+    "problem_url": "https://codeforces.com/contest/1059/problem/A",
+    "submission_id": "CF47506455",
+    "submission_url": "https://codeforces.com/contest/1059/submission/47506455",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Dec/26/2018 07:52"
+  },
+  "CF47506511": {
+    "contest_id": 1020,
+    "language": "GNU C++17",
+    "path": "codeforces\\1020\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Badge",
+    "problem_url": "https://codeforces.com/contest/1020/problem/B",
+    "submission_id": "CF47506511",
+    "submission_url": "https://codeforces.com/contest/1020/submission/47506511",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "*1000"
+    ],
+    "timestamp": "Dec/26/2018 08:01"
+  },
+  "CF47506576": {
+    "contest_id": 275,
+    "language": "GNU C++17",
+    "path": "codeforces\\275\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Lights Out",
+    "problem_url": "https://codeforces.com/contest/275/problem/A",
+    "submission_id": "CF47506576",
+    "submission_url": "https://codeforces.com/contest/275/submission/47506576",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Dec/26/2018 08:11"
+  },
+  "CF47507706": {
+    "contest_id": 990,
+    "language": "GNU C++17",
+    "path": "codeforces\\990\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Commentary Boxes",
+    "problem_url": "https://codeforces.com/contest/990/problem/A",
+    "submission_id": "CF47507706",
+    "submission_url": "https://codeforces.com/contest/990/submission/47507706",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Dec/26/2018 10:11"
+  },
+  "CF47508040": {
+    "contest_id": 265,
+    "language": "GNU C++17",
+    "path": "codeforces\\265\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Roadside Trees (Simplified Edition)",
+    "problem_url": "https://codeforces.com/contest/265/problem/B",
+    "submission_id": "CF47508040",
+    "submission_url": "https://codeforces.com/contest/265/submission/47508040",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Dec/26/2018 10:38"
+  },
+  "CF47508120": {
+    "contest_id": 975,
+    "language": "GNU C++17",
+    "path": "codeforces\\975\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Aramic script",
+    "problem_url": "https://codeforces.com/contest/975/problem/A",
+    "submission_id": "CF47508120",
+    "submission_url": "https://codeforces.com/contest/975/submission/47508120",
+    "tags": [
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Dec/26/2018 10:45"
+  },
+  "CF47508462": {
+    "contest_id": 879,
+    "language": "GNU C++17",
+    "path": "codeforces\\879\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Borya's Diagnosis",
+    "problem_url": "https://codeforces.com/contest/879/problem/A",
+    "submission_id": "CF47508462",
+    "submission_url": "https://codeforces.com/contest/879/submission/47508462",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Dec/26/2018 11:11"
+  },
+  "CF47518108": {
+    "contest_id": 465,
+    "language": "GNU C++17",
+    "path": "codeforces\\465\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Inbox (100500)",
+    "problem_url": "https://codeforces.com/contest/465/problem/B",
+    "submission_id": "CF47518108",
+    "submission_url": "https://codeforces.com/contest/465/submission/47518108",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Dec/26/2018 18:18"
+  },
+  "CF47518460": {
+    "contest_id": 84,
+    "language": "GNU C++17",
+    "path": "codeforces\\84\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Toy Army",
+    "problem_url": "https://codeforces.com/contest/84/problem/A",
+    "submission_id": "CF47518460",
+    "submission_url": "https://codeforces.com/contest/84/submission/47518460",
+    "tags": [
+      "math",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "Dec/26/2018 18:32"
+  },
+  "CF47519447": {
+    "contest_id": 862,
+    "language": "GNU C++17",
+    "path": "codeforces\\862\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Mahmoud and Ehab and the MEX",
+    "problem_url": "https://codeforces.com/contest/862/problem/A",
+    "submission_id": "CF47519447",
+    "submission_url": "https://codeforces.com/contest/862/submission/47519447",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Dec/26/2018 19:06"
+  },
+  "CF47521313": {
+    "contest_id": 989,
+    "language": "GNU C++17",
+    "path": "codeforces\\989\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "A Blend of Springtime",
+    "problem_url": "https://codeforces.com/contest/989/problem/A",
+    "submission_id": "CF47521313",
+    "submission_url": "https://codeforces.com/contest/989/submission/47521313",
+    "tags": [
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Dec/26/2018 20:14"
+  },
+  "CF65494252": {
+    "contest_id": 1213,
+    "language": "GNU C++17",
+    "path": "codeforces\\1213\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Chips Moving",
+    "problem_url": "https://codeforces.com/contest/1213/problem/A",
+    "submission_id": "CF65494252",
+    "submission_url": "https://codeforces.com/contest/1213/submission/65494252",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Nov/21/2019 22:55"
+  },
+  "CF65494655": {
+    "contest_id": 1213,
+    "language": "GNU C++17",
+    "path": "codeforces\\1213\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Bad Prices",
+    "problem_url": "https://codeforces.com/contest/1213/problem/B",
+    "submission_id": "CF65494655",
+    "submission_url": "https://codeforces.com/contest/1213/submission/65494655",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Nov/21/2019 23:05"
+  },
+  "CF65497606": {
+    "contest_id": 1213,
+    "language": "GNU C++17",
+    "path": "codeforces\\1213\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Book Reading",
+    "problem_url": "https://codeforces.com/contest/1213/problem/C",
+    "submission_id": "CF65497606",
+    "submission_url": "https://codeforces.com/contest/1213/submission/65497606",
+    "tags": [
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Nov/22/2019 00:16"
+  },
+  "CF65528606": {
+    "contest_id": 1206,
+    "language": "GNU C++17",
+    "path": "codeforces\\1206\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Make Product Equal One",
+    "problem_url": "https://codeforces.com/contest/1206/problem/B",
+    "submission_id": "CF65528606",
+    "submission_url": "https://codeforces.com/contest/1206/submission/65528606",
+    "tags": [
+      "dp",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Nov/22/2019 18:29"
+  },
+  "CF65529645": {
+    "contest_id": 1206,
+    "language": "GNU C++17",
+    "path": "codeforces\\1206\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Make Product Equal One",
+    "problem_url": "https://codeforces.com/contest/1206/problem/B",
+    "submission_id": "CF65529645",
+    "submission_url": "https://codeforces.com/contest/1206/submission/65529645",
+    "tags": [
+      "dp",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Nov/22/2019 18:55"
+  },
+  "CF65531512": {
+    "contest_id": 1206,
+    "language": "GNU C++17",
+    "path": "codeforces\\1206\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Almost Equal",
+    "problem_url": "https://codeforces.com/contest/1206/problem/C",
+    "submission_id": "CF65531512",
+    "submission_url": "https://codeforces.com/contest/1206/submission/65531512",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Nov/22/2019 19:37"
+  },
+  "CF65538525": {
+    "contest_id": 1154,
+    "language": "GNU C++17",
+    "path": "codeforces\\1154\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Gourmet Cat",
+    "problem_url": "https://codeforces.com/contest/1154/problem/C",
+    "submission_id": "CF65538525",
+    "submission_url": "https://codeforces.com/contest/1154/submission/65538525",
+    "tags": [
+      "implementation",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Nov/22/2019 22:06"
+  },
+  "CF65541285": {
+    "contest_id": 1154,
+    "language": "GNU C++17",
+    "path": "codeforces\\1154\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Walking Robot",
+    "problem_url": "https://codeforces.com/contest/1154/problem/D",
+    "submission_id": "CF65541285",
+    "submission_url": "https://codeforces.com/contest/1154/submission/65541285",
+    "tags": [
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Nov/22/2019 22:37"
+  },
+  "CF65578609": {
+    "contest_id": 979,
+    "language": "GNU C++17",
+    "path": "codeforces\\979\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Kuro and Walking Route",
+    "problem_url": "https://codeforces.com/contest/979/problem/C",
+    "submission_id": "CF65578609",
+    "submission_url": "https://codeforces.com/contest/979/submission/65578609",
+    "tags": [
+      "dfs and similar",
+      "trees",
+      "*1600"
+    ],
+    "timestamp": "Nov/23/2019 17:16"
+  },
+  "CF65579791": {
+    "contest_id": 1092,
+    "language": "GNU C++17",
+    "path": "codeforces\\1092\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Prefixes and Suffixes",
+    "problem_url": "https://codeforces.com/contest/1092/problem/C",
+    "submission_id": "CF65579791",
+    "submission_url": "https://codeforces.com/contest/1092/submission/65579791",
+    "tags": [
+      "strings",
+      "*1700"
+    ],
+    "timestamp": "Nov/23/2019 17:37"
+  },
+  "CF65745906": {
+    "contest_id": 1262,
+    "language": "GNU C++17",
+    "path": "codeforces\\1262\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Math Problem",
+    "problem_url": "https://codeforces.com/contest/1262/problem/A",
+    "submission_id": "CF65745906",
+    "submission_url": "https://codeforces.com/contest/1262/submission/65745906",
+    "tags": [
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Nov/26/2019 19:14"
+  },
+  "CF65747241": {
+    "contest_id": 1262,
+    "language": "GNU C++17",
+    "path": "codeforces\\1262\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Box",
+    "problem_url": "https://codeforces.com/contest/1262/problem/B",
+    "submission_id": "CF65747241",
+    "submission_url": "https://codeforces.com/contest/1262/submission/65747241",
+    "tags": [
+      "constructive algorithms",
+      "*1200"
+    ],
+    "timestamp": "Nov/26/2019 19:44"
+  },
+  "CF65753802": {
+    "contest_id": 339,
+    "language": "GNU C++17",
+    "path": "codeforces\\339\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Xenia and Bit Operations",
+    "problem_url": "https://codeforces.com/contest/339/problem/D",
+    "submission_id": "CF65753802",
+    "submission_url": "https://codeforces.com/contest/339/submission/65753802",
+    "tags": [
+      "data structures",
+      "trees",
+      "*1700"
+    ],
+    "timestamp": "Nov/26/2019 21:08"
+  },
+  "CF65835300": {
+    "contest_id": 1260,
+    "language": "GNU C++17",
+    "path": "codeforces\\1260\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Heating",
+    "problem_url": "https://codeforces.com/contest/1260/problem/A",
+    "submission_id": "CF65835300",
+    "submission_url": "https://codeforces.com/contest/1260/submission/65835300",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Nov/27/2019 21:07"
+  },
+  "CF65839857": {
+    "contest_id": 1260,
+    "language": "GNU C++17",
+    "path": "codeforces\\1260\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Obtain Two Zeroes",
+    "problem_url": "https://codeforces.com/contest/1260/problem/B",
+    "submission_id": "CF65839857",
+    "submission_url": "https://codeforces.com/contest/1260/submission/65839857",
+    "tags": [
+      "binary search",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Nov/27/2019 21:18"
+  },
+  "CF65903380": {
+    "contest_id": 1175,
+    "language": "GNU C++17",
+    "path": "codeforces\\1175\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Catch Overflow!",
+    "problem_url": "https://codeforces.com/contest/1175/problem/B",
+    "submission_id": "CF65903380",
+    "submission_url": "https://codeforces.com/contest/1175/submission/65903380",
+    "tags": [
+      "data structures",
+      "expression parsing",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Nov/28/2019 16:46"
+  },
+  "CF65980036": {
+    "contest_id": 1263,
+    "language": "GNU C++17",
+    "path": "codeforces\\1263\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sweet Problem",
+    "problem_url": "https://codeforces.com/contest/1263/problem/A",
+    "submission_id": "CF65980036",
+    "submission_url": "https://codeforces.com/contest/1263/submission/65980036",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Nov/29/2019 22:43"
+  },
+  "CF66016539": {
+    "contest_id": 1263,
+    "language": "GNU C++17",
+    "path": "codeforces\\1263\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "PIN Codes",
+    "problem_url": "https://codeforces.com/contest/1263/problem/B",
+    "submission_id": "CF66016539",
+    "submission_url": "https://codeforces.com/contest/1263/submission/66016539",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Nov/30/2019 12:41"
+  },
+  "CF66039479": {
+    "contest_id": 1263,
+    "language": "GNU C++17",
+    "path": "codeforces\\1263\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Everyone is a Winner!",
+    "problem_url": "https://codeforces.com/contest/1263/problem/C",
+    "submission_id": "CF66039479",
+    "submission_url": "https://codeforces.com/contest/1263/submission/66039479",
+    "tags": [
+      "binary search",
+      "math",
+      "meet-in-the-middle",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "Nov/30/2019 19:59"
+  },
+  "CF66345153": {
+    "contest_id": 1265,
+    "language": "GNU C++17",
+    "path": "codeforces\\1265\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Beautiful Numbers",
+    "problem_url": "https://codeforces.com/contest/1265/problem/B",
+    "submission_id": "CF66345153",
+    "submission_url": "https://codeforces.com/contest/1265/submission/66345153",
+    "tags": [
+      "data structures",
+      "implementation",
+      "math",
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "Dec/05/2019 22:46"
+  },
+  "CF66353972": {
+    "contest_id": 1265,
+    "language": "GNU C++17",
+    "path": "codeforces\\1265\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Beautiful String",
+    "problem_url": "https://codeforces.com/contest/1265/problem/A",
+    "submission_id": "CF66353972",
+    "submission_url": "https://codeforces.com/contest/1265/submission/66353972",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Dec/05/2019 23:20"
+  },
+  "CF66695380": {
+    "contest_id": 1272,
+    "language": "GNU C++17",
+    "path": "codeforces\\1272\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Three Friends",
+    "problem_url": "https://codeforces.com/contest/1272/problem/A",
+    "submission_id": "CF66695380",
+    "submission_url": "https://codeforces.com/contest/1272/submission/66695380",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Dec/12/2019 21:10"
+  },
+  "CF66704977": {
+    "contest_id": 1272,
+    "language": "GNU C++17",
+    "path": "codeforces\\1272\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Snow Walking Robot",
+    "problem_url": "https://codeforces.com/contest/1272/problem/B",
+    "submission_id": "CF66704977",
+    "submission_url": "https://codeforces.com/contest/1272/submission/66704977",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Dec/12/2019 21:36"
+  },
+  "CF66711250": {
+    "contest_id": 1272,
+    "language": "GNU C++17",
+    "path": "codeforces\\1272\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Yet Another Broken Keyboard",
+    "problem_url": "https://codeforces.com/contest/1272/problem/C",
+    "submission_id": "CF66711250",
+    "submission_url": "https://codeforces.com/contest/1272/submission/66711250",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Dec/12/2019 21:56"
+  },
+  "CF67216544": {
+    "contest_id": 1278,
+    "language": "GNU C++17",
+    "path": "codeforces\\1278\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Shuffle Hashing",
+    "problem_url": "https://codeforces.com/contest/1278/problem/A",
+    "submission_id": "CF67216544",
+    "submission_url": "https://codeforces.com/contest/1278/submission/67216544",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Dec/19/2019 21:51"
+  },
+  "CF67531517": {
+    "contest_id": 1282,
+    "language": "GNU C++17",
+    "path": "codeforces\\1282\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Temporarily unavailable",
+    "problem_url": "https://codeforces.com/contest/1282/problem/A",
+    "submission_id": "CF67531517",
+    "submission_url": "https://codeforces.com/contest/1282/submission/67531517",
+    "tags": [
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Dec/24/2019 21:53"
+  },
+  "CF67701752": {
+    "contest_id": 1279,
+    "language": "GNU C++17",
+    "path": "codeforces\\1279\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "New Year Garland",
+    "problem_url": "https://codeforces.com/contest/1279/problem/A",
+    "submission_id": "CF67701752",
+    "submission_url": "https://codeforces.com/contest/1279/submission/67701752",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Dec/27/2019 21:43"
+  },
+  "CF67717321": {
+    "contest_id": 1279,
+    "language": "GNU C++17",
+    "path": "codeforces\\1279\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Verse For Santa",
+    "problem_url": "https://codeforces.com/contest/1279/problem/B",
+    "submission_id": "CF67717321",
+    "submission_url": "https://codeforces.com/contest/1279/submission/67717321",
+    "tags": [
+      "binary search",
+      "brute force",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Dec/27/2019 22:10"
+  },
+  "CF67740058": {
+    "contest_id": 1279,
+    "language": "GNU C++17",
+    "path": "codeforces\\1279\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Stack of Presents",
+    "problem_url": "https://codeforces.com/contest/1279/problem/C",
+    "submission_id": "CF67740058",
+    "submission_url": "https://codeforces.com/contest/1279/submission/67740058",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Dec/27/2019 23:19"
+  },
+  "CF68101548": {
+    "contest_id": 1270,
+    "language": "GNU C++17",
+    "path": "codeforces\\1270\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Interesting Subarray",
+    "problem_url": "https://codeforces.com/contest/1270/problem/B",
+    "submission_id": "CF68101548",
+    "submission_url": "https://codeforces.com/contest/1270/submission/68101548",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Jan/03/2020 10:35"
+  },
+  "CF68167344": {
+    "contest_id": 1284,
+    "language": "GNU C++17",
+    "path": "codeforces\\1284\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "New Year and Naming",
+    "problem_url": "https://codeforces.com/contest/1284/problem/A",
+    "submission_id": "CF68167344",
+    "submission_url": "https://codeforces.com/contest/1284/submission/68167344",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jan/04/2020 19:12"
+  },
+  "CF68190503": {
+    "contest_id": 1284,
+    "language": "GNU C++17",
+    "path": "codeforces\\1284\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "New Year and Ascent Sequence",
+    "problem_url": "https://codeforces.com/contest/1284/problem/B",
+    "submission_id": "CF68190503",
+    "submission_url": "https://codeforces.com/contest/1284/submission/68190503",
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "data structures",
+      "dp",
+      "implementation",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Jan/04/2020 20:50"
+  },
+  "CF68246964": {
+    "contest_id": 1287,
+    "language": "GNU C++17",
+    "path": "codeforces\\1287\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Angry Students",
+    "problem_url": "https://codeforces.com/contest/1287/problem/A",
+    "submission_id": "CF68246964",
+    "submission_url": "https://codeforces.com/contest/1287/submission/68246964",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/05/2020 21:12"
+  },
+  "CF68261337": {
+    "contest_id": 1287,
+    "language": "GNU C++17",
+    "path": "codeforces\\1287\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Hyperset",
+    "problem_url": "https://codeforces.com/contest/1287/problem/B",
+    "submission_id": "CF68261337",
+    "submission_url": "https://codeforces.com/contest/1287/submission/68261337",
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Jan/05/2020 21:55"
+  },
+  "CF68300666": {
+    "contest_id": 1283,
+    "language": "GNU C++17",
+    "path": "codeforces\\1283\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Minutes Before the New Year",
+    "problem_url": "https://codeforces.com/contest/1283/problem/A",
+    "submission_id": "CF68300666",
+    "submission_url": "https://codeforces.com/contest/1283/submission/68300666",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/06/2020 13:21"
+  },
+  "CF68300974": {
+    "contest_id": 1283,
+    "language": "GNU C++17",
+    "path": "codeforces\\1283\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Candies Division",
+    "problem_url": "https://codeforces.com/contest/1283/problem/B",
+    "submission_id": "CF68300974",
+    "submission_url": "https://codeforces.com/contest/1283/submission/68300974",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jan/06/2020 13:32"
+  },
+  "CF68498164": {
+    "contest_id": 1285,
+    "language": "GNU C++17",
+    "path": "codeforces\\1285\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Mezo Playing Zoma",
+    "problem_url": "https://codeforces.com/contest/1285/problem/A",
+    "submission_id": "CF68498164",
+    "submission_url": "https://codeforces.com/contest/1285/submission/68498164",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/10/2020 21:07"
+  },
+  "CF69112569": {
+    "contest_id": 1293,
+    "language": "GNU C++17",
+    "path": "codeforces\\1293\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "ConneR and the A.R.C. Markland-N",
+    "problem_url": "https://codeforces.com/contest/1293/problem/A",
+    "submission_id": "CF69112569",
+    "submission_url": "https://codeforces.com/contest/1293/submission/69112569",
+    "tags": [
+      "binary search",
+      "brute force",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Jan/19/2020 21:01"
+  },
+  "CF69116597": {
+    "contest_id": 1293,
+    "language": "GNU C++17",
+    "path": "codeforces\\1293\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "JOE is on TV!",
+    "problem_url": "https://codeforces.com/contest/1293/problem/B",
+    "submission_id": "CF69116597",
+    "submission_url": "https://codeforces.com/contest/1293/submission/69116597",
+    "tags": [
+      "combinatorics",
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jan/19/2020 21:08"
+  },
+  "CF69308949": {
+    "contest_id": 1294,
+    "language": "GNU C++17",
+    "path": "codeforces\\1294\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Collecting Coins",
+    "problem_url": "https://codeforces.com/contest/1294/problem/A",
+    "submission_id": "CF69308949",
+    "submission_url": "https://codeforces.com/contest/1294/submission/69308949",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/22/2020 21:42"
+  },
+  "CF69335408": {
+    "contest_id": 1294,
+    "language": "GNU C++17",
+    "path": "codeforces\\1294\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Collecting Packages",
+    "problem_url": "https://codeforces.com/contest/1294/problem/B",
+    "submission_id": "CF69335408",
+    "submission_url": "https://codeforces.com/contest/1294/submission/69335408",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Jan/22/2020 22:21"
+  },
+  "CF69737004": {
+    "contest_id": 1295,
+    "language": "GNU C++17",
+    "path": "codeforces\\1295\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Display The Number",
+    "problem_url": "https://codeforces.com/contest/1295/problem/A",
+    "submission_id": "CF69737004",
+    "submission_url": "https://codeforces.com/contest/1295/submission/69737004",
+    "tags": [
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Jan/29/2020 21:40"
+  },
+  "CF70563403": {
+    "contest_id": 1296,
+    "language": "GNU C++17",
+    "path": "codeforces\\1296\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Array with Odd Sum",
+    "problem_url": "https://codeforces.com/contest/1296/problem/A",
+    "submission_id": "CF70563403",
+    "submission_url": "https://codeforces.com/contest/1296/submission/70563403",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Feb/08/2020 19:32"
+  },
+  "CF70565191": {
+    "contest_id": 1296,
+    "language": "GNU C++17",
+    "path": "codeforces\\1296\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Food Buying",
+    "problem_url": "https://codeforces.com/contest/1296/problem/B",
+    "submission_id": "CF70565191",
+    "submission_url": "https://codeforces.com/contest/1296/submission/70565191",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Feb/08/2020 20:00"
+  },
+  "CF70851229": {
+    "contest_id": 1303,
+    "language": "GNU C++17",
+    "path": "codeforces\\1303\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Erasing Zeroes",
+    "problem_url": "https://codeforces.com/contest/1303/problem/A",
+    "submission_id": "CF70851229",
+    "submission_url": "https://codeforces.com/contest/1303/submission/70851229",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Feb/12/2020 21:38"
+  },
+  "CF71693858": {
+    "contest_id": 450,
+    "language": "GNU C++17",
+    "path": "codeforces\\450\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Jzzhu and Sequences",
+    "problem_url": "https://codeforces.com/contest/450/problem/B",
+    "submission_id": "CF71693858",
+    "submission_url": "https://codeforces.com/contest/450/submission/71693858",
+    "tags": [
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Feb/23/2020 20:25"
+  },
+  "CF71703172": {
+    "contest_id": 1315,
+    "language": "GNU C++17",
+    "path": "codeforces\\1315\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dead Pixel",
+    "problem_url": "https://codeforces.com/contest/1315/problem/A",
+    "submission_id": "CF71703172",
+    "submission_url": "https://codeforces.com/contest/1315/submission/71703172",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Feb/23/2020 23:11"
+  },
+  "CF71720784": {
+    "contest_id": 1315,
+    "language": "GNU C++17",
+    "path": "codeforces\\1315\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Homecoming",
+    "problem_url": "https://codeforces.com/contest/1315/problem/B",
+    "submission_id": "CF71720784",
+    "submission_url": "https://codeforces.com/contest/1315/submission/71720784",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Feb/24/2020 00:49"
+  },
+  "CF71726376": {
+    "contest_id": 1315,
+    "language": "GNU C++17",
+    "path": "codeforces\\1315\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Restoring Permutation",
+    "problem_url": "https://codeforces.com/contest/1315/problem/C",
+    "submission_id": "CF71726376",
+    "submission_url": "https://codeforces.com/contest/1315/submission/71726376",
+    "tags": [
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "Feb/24/2020 01:29"
+  },
+  "CF72631581": {
+    "contest_id": 1323,
+    "language": "GNU C++17",
+    "path": "codeforces\\1323\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Even Subset Sum Problem",
+    "problem_url": "https://codeforces.com/contest/1323/problem/A",
+    "submission_id": "CF72631581",
+    "submission_url": "https://codeforces.com/contest/1323/submission/72631581",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/07/2020 16:43"
+  },
+  "CF72700285": {
+    "contest_id": 1323,
+    "language": "GNU C++17",
+    "path": "codeforces\\1323\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Unusual Competitions",
+    "problem_url": "https://codeforces.com/contest/1323/problem/C",
+    "submission_id": "CF72700285",
+    "submission_url": "https://codeforces.com/contest/1323/submission/72700285",
+    "tags": [
+      "constructive algorithms",
+      "*1300"
+    ],
+    "timestamp": "Mar/08/2020 10:16"
+  },
+  "CF72700869": {
+    "contest_id": 1313,
+    "language": "GNU C++17",
+    "path": "codeforces\\1313\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Fast Food Restaurant",
+    "problem_url": "https://codeforces.com/contest/1313/problem/A",
+    "submission_id": "CF72700869",
+    "submission_url": "https://codeforces.com/contest/1313/submission/72700869",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Mar/08/2020 10:39"
+  },
+  "CF72702302": {
+    "contest_id": 1313,
+    "language": "GNU C++17",
+    "path": "codeforces\\1313\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Different Rules",
+    "problem_url": "https://codeforces.com/contest/1313/problem/B",
+    "submission_id": "CF72702302",
+    "submission_url": "https://codeforces.com/contest/1313/submission/72702302",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Mar/08/2020 11:30"
+  },
+  "CF73025282": {
+    "contest_id": 1324,
+    "language": "GNU C++17",
+    "path": "codeforces\\1324\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Yet Another Tetris Problem",
+    "problem_url": "https://codeforces.com/contest/1324/problem/A",
+    "submission_id": "CF73025282",
+    "submission_url": "https://codeforces.com/contest/1324/submission/73025282",
+    "tags": [
+      "implementation",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "Mar/12/2020 20:10"
+  },
+  "CF73030046": {
+    "contest_id": 1324,
+    "language": "GNU C++17",
+    "path": "codeforces\\1324\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Yet Another Palindrome Problem",
+    "problem_url": "https://codeforces.com/contest/1324/problem/B",
+    "submission_id": "CF73030046",
+    "submission_url": "https://codeforces.com/contest/1324/submission/73030046",
+    "tags": [
+      "brute force",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "Mar/12/2020 20:17"
+  },
+  "CF73035139": {
+    "contest_id": 1324,
+    "language": "GNU C++17",
+    "path": "codeforces\\1324\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Frog Jumps",
+    "problem_url": "https://codeforces.com/contest/1324/problem/C",
+    "submission_id": "CF73035139",
+    "submission_url": "https://codeforces.com/contest/1324/submission/73035139",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "greedy",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Mar/12/2020 20:24"
+  },
+  "CF77519861": {
+    "contest_id": 1343,
+    "language": "GNU C++17",
+    "path": "codeforces\\1343\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Candies",
+    "problem_url": "https://codeforces.com/contest/1343/problem/A",
+    "submission_id": "CF77519861",
+    "submission_url": "https://codeforces.com/contest/1343/submission/77519861",
+    "tags": [
+      "brute force",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Apr/21/2020 22:14"
+  },
+  "CF77524957": {
+    "contest_id": 1343,
+    "language": "GNU C++17",
+    "path": "codeforces\\1343\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Balanced Array",
+    "problem_url": "https://codeforces.com/contest/1343/problem/B",
+    "submission_id": "CF77524957",
+    "submission_url": "https://codeforces.com/contest/1343/submission/77524957",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/21/2020 22:21"
+  },
+  "CF77536155": {
+    "contest_id": 1343,
+    "language": "GNU C++17",
+    "path": "codeforces\\1343\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Alternating Subsequence",
+    "problem_url": "https://codeforces.com/contest/1343/problem/C",
+    "submission_id": "CF77536155",
+    "submission_url": "https://codeforces.com/contest/1343/submission/77536155",
+    "tags": [
+      "dp",
+      "greedy",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "Apr/21/2020 22:38"
+  },
+  "CF79477360": {
+    "contest_id": 1352,
+    "language": "GNU C++17",
+    "path": "codeforces\\1352\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sum of Round Numbers",
+    "problem_url": "https://codeforces.com/contest/1352/problem/A",
+    "submission_id": "CF79477360",
+    "submission_url": "https://codeforces.com/contest/1352/submission/79477360",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/09/2020 21:41"
+  },
+  "CF79519306": {
+    "contest_id": 1352,
+    "language": "GNU C++17",
+    "path": "codeforces\\1352\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Same Parity Summands",
+    "problem_url": "https://codeforces.com/contest/1352/problem/B",
+    "submission_id": "CF79519306",
+    "submission_url": "https://codeforces.com/contest/1352/submission/79519306",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "May/09/2020 22:26"
+  },
+  "CF79534283": {
+    "contest_id": 1352,
+    "language": "GNU C++17",
+    "path": "codeforces\\1352\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "K-th Not Divisible by n",
+    "problem_url": "https://codeforces.com/contest/1352/problem/C",
+    "submission_id": "CF79534283",
+    "submission_url": "https://codeforces.com/contest/1352/submission/79534283",
+    "tags": [
+      "binary search",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "May/09/2020 22:46"
+  },
+  "CF79547462": {
+    "contest_id": 1352,
+    "language": "GNU C++17",
+    "path": "codeforces\\1352\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Alice, Bob and Candies",
+    "problem_url": "https://codeforces.com/contest/1352/problem/D",
+    "submission_id": "CF79547462",
+    "submission_url": "https://codeforces.com/contest/1352/submission/79547462",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "May/09/2020 23:06"
+  },
+  "CF80778175": {
+    "contest_id": 1355,
+    "language": "GNU C++17",
+    "path": "codeforces\\1355\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Young Explorers",
+    "problem_url": "https://codeforces.com/contest/1355/problem/B",
+    "submission_id": "CF80778175",
+    "submission_url": "https://codeforces.com/contest/1355/submission/80778175",
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "May/20/2020 20:52"
+  },
+  "CF81733787": {
+    "contest_id": 1359,
+    "language": "GNU C++17",
+    "path": "codeforces\\1359\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Berland Poker",
+    "problem_url": "https://codeforces.com/contest/1359/problem/A",
+    "submission_id": "CF81733787",
+    "submission_url": "https://codeforces.com/contest/1359/submission/81733787",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "May/28/2020 21:57"
+  },
+  "CF81748983": {
+    "contest_id": 1359,
+    "language": "GNU C++17",
+    "path": "codeforces\\1359\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "New Theatre Square",
+    "problem_url": "https://codeforces.com/contest/1359/problem/B",
+    "submission_id": "CF81748983",
+    "submission_url": "https://codeforces.com/contest/1359/submission/81748983",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*1000"
+    ],
+    "timestamp": "May/28/2020 22:16"
+  },
+  "CF82074133": {
+    "contest_id": 1363,
+    "language": "GNU C++17",
+    "path": "codeforces\\1363\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Odd Selection",
+    "problem_url": "https://codeforces.com/contest/1363/problem/A",
+    "submission_id": "CF82074133",
+    "submission_url": "https://codeforces.com/contest/1363/submission/82074133",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "May/31/2020 22:00"
+  },
+  "CF82094557": {
+    "contest_id": 1363,
+    "language": "GNU C++17",
+    "path": "codeforces\\1363\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Subsequence Hate",
+    "problem_url": "https://codeforces.com/contest/1363/problem/B",
+    "submission_id": "CF82094557",
+    "submission_url": "https://codeforces.com/contest/1363/submission/82094557",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1400"
+    ],
+    "timestamp": "May/31/2020 22:21"
+  },
+  "CF87988680": {
+    "contest_id": 1102,
+    "language": "GNU C++17",
+    "path": "codeforces\\1102\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Integer Sequence Dividing",
+    "problem_url": "https://codeforces.com/contest/1102/problem/A",
+    "submission_id": "CF87988680",
+    "submission_url": "https://codeforces.com/contest/1102/submission/87988680",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/25/2020 20:11"
+  },
+  "CF87989755": {
+    "contest_id": 1102,
+    "language": "GNU C++17",
+    "path": "codeforces\\1102\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Array K-Coloring",
+    "problem_url": "https://codeforces.com/contest/1102/problem/B",
+    "submission_id": "CF87989755",
+    "submission_url": "https://codeforces.com/contest/1102/submission/87989755",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Jul/25/2020 20:28"
+  },
+  "CF87990303": {
+    "contest_id": 1102,
+    "language": "GNU C++17",
+    "path": "codeforces\\1102\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Doors Breaking and Repairing",
+    "problem_url": "https://codeforces.com/contest/1102/problem/C",
+    "submission_id": "CF87990303",
+    "submission_url": "https://codeforces.com/contest/1102/submission/87990303",
+    "tags": [
+      "games",
+      "*1200"
+    ],
+    "timestamp": "Jul/25/2020 20:37"
+  },
+  "CF87993011": {
+    "contest_id": 1102,
+    "language": "GNU C++17",
+    "path": "codeforces\\1102\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Balanced Ternary String",
+    "problem_url": "https://codeforces.com/contest/1102/problem/D",
+    "submission_id": "CF87993011",
+    "submission_url": "https://codeforces.com/contest/1102/submission/87993011",
+    "tags": [
+      "greedy",
+      "strings",
+      "*1500"
+    ],
+    "timestamp": "Jul/25/2020 21:14"
+  },
   "CF88301663": {
     "contest_id": 1389,
     "language": "GNU C++17",
@@ -104,6 +4127,25 @@
       "*800"
     ],
     "timestamp": "Jul/29/2020 21:41"
+  },
+  "CF88318337": {
+    "contest_id": 1389,
+    "language": "GNU C++17",
+    "path": "codeforces\\1389\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Good String",
+    "problem_url": "https://codeforces.com/contest/1389/problem/C",
+    "submission_id": "CF88318337",
+    "submission_url": "https://codeforces.com/contest/1389/submission/88318337",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "two pointers",
+      "*1500"
+    ],
+    "timestamp": "Jul/29/2020 22:06"
   },
   "CF91357078": {
     "contest_id": 1397,
